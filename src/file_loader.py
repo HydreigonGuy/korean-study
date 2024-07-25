@@ -20,6 +20,3 @@ def retrieve_file_contents(path):
             for d in data:
                 contents[d] = data[d]
     return (contents)
-
-contents = retrieve_file_contents(FILES_PATH)
-print(contents)

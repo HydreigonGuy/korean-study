@@ -2,7 +2,7 @@
 import os
 import json
 
-FILES_PATH = "../vocab"
+FILES_PATH = "../../../vocab"
 
 def retrieve_file_contents(path):
     files = os.listdir(path)

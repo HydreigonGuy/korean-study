@@ -1,41 +1,236 @@
 {
-    "class":"수업",
-    "grades":"성적",
-    "book":"책",
-    "desk":"책상",
-    "chair":"의자",
-    "computer":"컴퓨터",
-    "notebook":"공책",
-    "pen":"볼펜",
-    "pencil":"연필",
-    "eraser":"지우개",
-    "dictionary":"사전",
-    "ruler":"자",
-    "pencil case":"필통",
-    "textbook":"교과서",
-    "folder":"폴더",
-    "kindergarden":"유치원",
-    "elementary school":"초등학교",
-    "elementary schooler":"초등학생",
-    "middle school":"중학교",
-    "middle schooler":"중학생",
-    "highschool":"고등학교",
-    "high schooler":"고등학생",
-    "school year":"학년",
-    "school principal":"교장 (선생님)",
-    "homeroom teacher":"담임 (선생님)",
-    "test / exam":"시험",
-    "class roster":"학급 명부",
-    "points":"점",
-    "0 points":"빵점",
-    "full points":"만점",
-    "score":"점수",
-    "report card":"성적표",
-    "pass":"통과 / 합격",
-    "fail":"실패",
-    "school period":"교시",
-    "chalk":"분필",
-    "blackboard":"칠판",
-    "school trip":"수학여행",
-    "graduation ceremony":"졸업식"
+  "class":[
+    {
+      "word":"수업",
+      "description":"", "exmples":[]
+    }
+  ],
+  "grades":[
+    {
+      "word":"성적",
+      "description":"", "exmples":[]
+    }
+  ],
+  "book":[
+    {
+      "word":"책",
+      "description":"", "exmples":[]
+    }
+  ],
+  "desk":[
+    {
+      "word":"책상",
+      "description":"", "exmples":[]
+    }
+  ],
+  "chair":[
+    {
+      "word":"의자",
+      "description":"", "exmples":[]
+    }
+  ],
+  "computer":[
+    {
+      "word":"컴퓨터",
+      "description":"", "exmples":[]
+    }
+  ],
+  "notebook":[
+    {
+      "word":"공책",
+      "description":"", "exmples":[]
+    }
+  ],
+  "pen":[
+    {
+      "word":"볼펜",
+      "description":"", "exmples":[]
+    }
+  ],
+  "pencil":[
+    {
+      "word":"연필",
+      "description":"", "exmples":[]
+    }
+  ],
+  "eraser":[
+    {
+      "word":"지우개",
+      "description":"", "exmples":[]
+    }
+  ],
+  "dictionary":[
+    {
+      "word":"사전",
+      "description":"", "exmples":[]
+    }
+  ],
+  "ruler":[
+    {
+      "word":"자",
+      "description":"", "exmples":[]
+    }
+  ],
+  "pencil case":[
+    {
+      "word":"필통",
+      "description":"", "exmples":[]
+    }
+  ],
+  "textbook":[
+    {
+      "word":"교과서",
+      "description":"", "exmples":[]
+    }
+  ],
+  "folder":[
+    {
+      "word":"폴더",
+      "description":"", "exmples":[]
+    }
+  ],
+  "kindergarden":[
+    {
+      "word":"유치원",
+      "description":"", "exmples":[]
+    }
+  ],
+  "elementary school":[
+    {
+      "word":"초등학교",
+      "description":"", "exmples":[]
+    }
+  ],
+  "elementary schooler":[
+    {
+      "word":"초등학생",
+      "description":"", "exmples":[]
+    }
+  ],
+  "middle school":[
+    {
+      "word":"중학교",
+      "description":"", "exmples":[]
+    }
+  ],
+  "middle schooler":[
+    {
+      "word":"중학생",
+      "description":"", "exmples":[]
+    }
+  ],
+  "highschool":[
+    {
+      "word":"고등학교",
+      "description":"", "exmples":[]
+    }
+  ],
+  "high schooler":[
+    {
+      "word":"고등학생",
+      "description":"", "exmples":[]
+    }
+  ],
+  "school year":[
+    {
+      "word":"학년",
+      "description":"", "exmples":[]
+    }
+  ],
+  "school principal":[
+    {
+      "word":"교장 (선생님)",
+      "description":"", "exmples":[]
+    }
+  ],
+  "homeroom teacher":[
+    {
+      "word":"담임 (선생님)",
+      "description":"", "exmples":[]
+    }
+  ],
+  "test / exam":[
+    {
+      "word":"시험",
+      "description":"", "exmples":[]
+    }
+  ],
+  "class roster":[
+    {
+      "word":"학급 명부",
+      "description":"", "exmples":[]
+    }
+  ],
+  "points":[
+    {
+      "word":"점",
+      "description":"", "exmples":[]
+    }
+  ],
+  "0 points":[
+    {
+      "word":"빵점",
+      "description":"", "exmples":[]
+    }
+  ],
+  "full points":[
+    {
+      "word":"만점",
+      "description":"", "exmples":[]
+    }
+  ],
+  "score":[
+    {
+      "word":"점수",
+      "description":"", "exmples":[]
+    }
+  ],
+  "report card":[
+    {
+      "word":"성적표",
+      "description":"", "exmples":[]
+    }
+  ],
+  "pass":[
+    {
+      "word":"통과 / 합격",
+      "description":"", "exmples":[]
+    }
+  ],
+  "fail":[
+    {
+      "word":"실패",
+      "description":"", "exmples":[]
+    }
+  ],
+  "school period":[
+    {
+      "word":"교시",
+      "description":"", "exmples":[]
+    }
+  ],
+  "chalk":[
+    {
+      "word":"분필",
+      "description":"", "exmples":[]
+    }
+  ],
+  "blackboard":[
+    {
+      "word":"칠판",
+      "description":"", "exmples":[]
+    }
+  ],
+  "school trip":[
+    {
+      "word":"수학여행",
+      "description":"", "exmples":[]
+    }
+  ],
+  "graduation ceremony":[
+    {
+      "word":"졸업식",
+      "description":"", "exmples":[]
+    }
+  ]
 }

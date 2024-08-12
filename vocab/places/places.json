@@ -1,21 +1,116 @@
 {
-    "house":"집",
-    "beach":"해수욕장",
-    "parc":"공원",
-    "mountain":"산",
-    "restaurant":"식당",
-    "bank":"은행",
-    "school":"학교",
-    "university":"대학교",
-    "dormitory":"기숙사",
-    "library":"도서관",
-    "market":"시장",
-    "workplace":"회사",
-    "theater":"극장",
-    "sea":"바다",
-    "forest":"숲",
-    "farm":"농장",
-    "toilet":"화장실",
-    "museum":"박물관",
-    "hallway":"복도"
+  "house":[
+    {
+      "word":"집",
+      "description":"", "exmples":[]
+    }
+  ],
+  "beach":[
+    {
+      "word":"해수욕장",
+      "description":"", "exmples":[]
+    }
+  ],
+  "parc":[
+    {
+      "word":"공원",
+      "description":"", "exmples":[]
+    }
+  ],
+  "mountain":[
+    {
+      "word":"산",
+      "description":"", "exmples":[]
+    }
+  ],
+  "restaurant":[
+    {
+      "word":"식당",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bank":[
+    {
+      "word":"은행",
+      "description":"", "exmples":[]
+    }
+  ],
+  "school":[
+    {
+      "word":"학교",
+      "description":"", "exmples":[]
+    }
+  ],
+  "university":[
+    {
+      "word":"대학교",
+      "description":"", "exmples":[]
+    }
+  ],
+  "dormitory":[
+    {
+      "word":"기숙사",
+      "description":"", "exmples":[]
+    }
+  ],
+  "library":[
+    {
+      "word":"도서관",
+      "description":"", "exmples":[]
+    }
+  ],
+  "market":[
+    {
+      "word":"시장",
+      "description":"", "exmples":[]
+    }
+  ],
+  "workplace":[
+    {
+      "word":"회사",
+      "description":"", "exmples":[]
+    }
+  ],
+  "theater":[
+    {
+      "word":"극장",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sea":[
+    {
+      "word":"바다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "forest":[
+    {
+      "word":"숲",
+      "description":"", "exmples":[]
+    }
+  ],
+  "farm":[
+    {
+      "word":"농장",
+      "description":"", "exmples":[]
+    }
+  ],
+  "toilet":[
+    {
+      "word":"화장실",
+      "description":"", "exmples":[]
+    }
+  ],
+  "museum":[
+    {
+      "word":"박물관",
+      "description":"", "exmples":[]
+    }
+  ],
+  "hallway":[
+    {
+      "word":"복도",
+      "description":"", "exmples":[]
+    }
+  ]
 }

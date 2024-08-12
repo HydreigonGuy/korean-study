@@ -1,8 +1,38 @@
 {
-    "fruit":"과일",
-    "apple":"사과",
-    "banana":"바나나",
-    "orange":"오렌지",
-    "tangerine":"귤",
-    "peach":"복숭아"
+  "fruit":[
+    {
+      "word":"과일",
+      "description":"", "exmples":[]
+    }
+  ],
+  "apple":[
+    {
+      "word":"사과",
+      "description":"", "exmples":[]
+    }
+  ],
+  "banana":[
+    {
+      "word":"바나나",
+      "description":"", "exmples":[]
+    }
+  ],
+  "orange":[
+    {
+      "word":"오렌지",
+      "description":"", "exmples":[]
+    }
+  ],
+  "tangerine":[
+    {
+      "word":"귤",
+      "description":"", "exmples":[]
+    }
+  ],
+  "peach":[
+    {
+      "word":"복숭아",
+      "description":"", "exmples":[]
+    }
+  ]
 }

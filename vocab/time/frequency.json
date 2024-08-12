@@ -1,8 +1,38 @@
 {
-    "always":"항상",
-    "usually":"보통",
-    "often":"자주",
-    "sometimes":"가끔",
-    "never":"절대",
-    "every day":"매일"
+  "always":[
+    {
+      "word":"항상",
+      "description":"", "exmples":[]
+    }
+  ],
+  "usually":[
+    {
+      "word":"보통",
+      "description":"", "exmples":[]
+    }
+  ],
+  "often":[
+    {
+      "word":"자주",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sometimes":[
+    {
+      "word":"가끔",
+      "description":"", "exmples":[]
+    }
+  ],
+  "never":[
+    {
+      "word":"절대",
+      "description":"", "exmples":[]
+    }
+  ],
+  "every day":[
+    {
+      "word":"매일",
+      "description":"", "exmples":[]
+    }
+  ]
 }

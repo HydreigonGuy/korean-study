@@ -1,7 +1,32 @@
 {
-    "meal":"식사",
-    "breakfast":"아침",
-    "lunch":"점심",
-    "dinner":"저녁",
-    "dessert":"후식"
+  "meal":[
+    {
+      "word":"식사",
+      "description":"", "exmples":[]
+    }
+  ],
+  "breakfast":[
+    {
+      "word":"아침",
+      "description":"", "exmples":[]
+    }
+  ],
+  "lunch":[
+    {
+      "word":"점심",
+      "description":"", "exmples":[]
+    }
+  ],
+  "dinner":[
+    {
+      "word":"저녁",
+      "description":"", "exmples":[]
+    }
+  ],
+  "dessert":[
+    {
+      "word":"후식",
+      "description":"", "exmples":[]
+    }
+  ]
 }

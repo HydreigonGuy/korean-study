@@ -1,13 +1,68 @@
 {
-    "yesterday":"어제",
-    "today":"오늘",
-    "tomorow":"내일",
-    "the day before yesterday":"그저께",
-    "monday":"월요일",
-    "tuesday":"화요일",
-    "wednesday":"수요일",
-    "thursday":"목요일",
-    "friday":"금요일",
-    "saturday":"토요일",
-    "sunday":"일요일"
+  "yesterday":[
+    {
+      "word":"어제",
+      "description":"", "exmples":[]
+    }
+  ],
+  "today":[
+    {
+      "word":"오늘",
+      "description":"", "exmples":[]
+    }
+  ],
+  "tomorow":[
+    {
+      "word":"내일",
+      "description":"", "exmples":[]
+    }
+  ],
+  "the day before yesterday":[
+    {
+      "word":"그저께",
+      "description":"", "exmples":[]
+    }
+  ],
+  "monday":[
+    {
+      "word":"월요일",
+      "description":"", "exmples":[]
+    }
+  ],
+  "tuesday":[
+    {
+      "word":"화요일",
+      "description":"", "exmples":[]
+    }
+  ],
+  "wednesday":[
+    {
+      "word":"수요일",
+      "description":"", "exmples":[]
+    }
+  ],
+  "thursday":[
+    {
+      "word":"목요일",
+      "description":"", "exmples":[]
+    }
+  ],
+  "friday":[
+    {
+      "word":"금요일",
+      "description":"", "exmples":[]
+    }
+  ],
+  "saturday":[
+    {
+      "word":"토요일",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sunday":[
+    {
+      "word":"일요일",
+      "description":"", "exmples":[]
+    }
+  ]
 }

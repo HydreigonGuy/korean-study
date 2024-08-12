@@ -1,13 +1,68 @@
 {
-    "jeans":"청바지",
-    "shirt":"셔츠",
-    "skirt":"치마",
-    "sock":"양말",
-    "shoe":"신발",
-    "sneaker":"운동화",
-    "a pair":"켤레",
-    "coat":"코트",
-    "underwear":"속옷",
-    "suit":"양복",
-    "pajamas":"잠옷"
+  "jeans":[
+    {
+      "word":"청바지",
+      "description":"", "exmples":[]
+    }
+  ],
+  "shirt":[
+    {
+      "word":"셔츠",
+      "description":"", "exmples":[]
+    }
+  ],
+  "skirt":[
+    {
+      "word":"치마",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sock":[
+    {
+      "word":"양말",
+      "description":"", "exmples":[]
+    }
+  ],
+  "shoe":[
+    {
+      "word":"신발",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sneaker":[
+    {
+      "word":"운동화",
+      "description":"", "exmples":[]
+    }
+  ],
+  "a pair":[
+    {
+      "word":"켤레",
+      "description":"", "exmples":[]
+    }
+  ],
+  "coat":[
+    {
+      "word":"코트",
+      "description":"", "exmples":[]
+    }
+  ],
+  "underwear":[
+    {
+      "word":"속옷",
+      "description":"", "exmples":[]
+    }
+  ],
+  "suit":[
+    {
+      "word":"양복",
+      "description":"", "exmples":[]
+    }
+  ],
+  "pajamas":[
+    {
+      "word":"잠옷",
+      "description":"", "exmples":[]
+    }
+  ]
 }

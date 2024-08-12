@@ -1,12 +1,62 @@
 {
-    "family":"가족",
-    "mother":"어머니",
-    "grandmother":"할머니",
-    "father":"아버지",
-    "grandfather":"할아버지",
-    "son":"아들",
-    "daughter":"딸",
-    "parent":"부모",
-    "child":"아이",
-    "baby":"아기"
+  "family":[
+    {
+      "word":"가족",
+      "description":"", "exmples":[]
+    }
+  ],
+  "mother":[
+    {
+      "word":"어머니",
+      "description":"", "exmples":[]
+    }
+  ],
+  "grandmother":[
+    {
+      "word":"할머니",
+      "description":"", "exmples":[]
+    }
+  ],
+  "father":[
+    {
+      "word":"아버지",
+      "description":"", "exmples":[]
+    }
+  ],
+  "grandfather":[
+    {
+      "word":"할아버지",
+      "description":"", "exmples":[]
+    }
+  ],
+  "son":[
+    {
+      "word":"아들",
+      "description":"", "exmples":[]
+    }
+  ],
+  "daughter":[
+    {
+      "word":"딸",
+      "description":"", "exmples":[]
+    }
+  ],
+  "parent":[
+    {
+      "word":"부모",
+      "description":"", "exmples":[]
+    }
+  ],
+  "child":[
+    {
+      "word":"아이",
+      "description":"", "exmples":[]
+    }
+  ],
+  "baby":[
+    {
+      "word":"아기",
+      "description":"", "exmples":[]
+    }
+  ]
 }

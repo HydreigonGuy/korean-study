@@ -1,12 +1,62 @@
 {
-    "question":"질문",
-    "what":"뭐",
-    "why":"왜",
-    "when":"언제",
-    "where":"어디",
-    "who":"누가",
-    "which":"어느 or 어떤",
-    "how":"어떻게",
-    "muw much":"얼마나",
-    "how many":"몇"
+  "question":[
+    {
+      "word":"질문",
+      "description":"", "exmples":[]
+    }
+  ],
+  "what":[
+    {
+      "word":"뭐",
+      "description":"", "exmples":[]
+    }
+  ],
+  "why":[
+    {
+      "word":"왜",
+      "description":"", "exmples":[]
+    }
+  ],
+  "when":[
+    {
+      "word":"언제",
+      "description":"", "exmples":[]
+    }
+  ],
+  "where":[
+    {
+      "word":"어디",
+      "description":"", "exmples":[]
+    }
+  ],
+  "who":[
+    {
+      "word":"누가",
+      "description":"", "exmples":[]
+    }
+  ],
+  "which":[
+    {
+      "word":"어느 or 어떤",
+      "description":"", "exmples":[]
+    }
+  ],
+  "how":[
+    {
+      "word":"어떻게",
+      "description":"", "exmples":[]
+    }
+  ],
+  "muw much":[
+    {
+      "word":"얼마나",
+      "description":"", "exmples":[]
+    }
+  ],
+  "how many":[
+    {
+      "word":"몇",
+      "description":"", "exmples":[]
+    }
+  ]
 }

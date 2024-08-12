@@ -1,12 +1,62 @@
 {
-    "black":"검정",
-    "white":"하양",
-    "blue":"파랑",
-    "red":"빨강",
-    "yellow":"노랑",
-    "grey":"회",
-    "green":"초록 or 녹색",
-    "brown":"갈",
-    "purple":"보라",
-    "pink":"분홍"
+  "black":[
+    {
+      "word":"검정",
+      "description":"", "exmples":[]
+    }
+  ],
+  "white":[
+    {
+      "word":"하양",
+      "description":"", "exmples":[]
+    }
+  ],
+  "blue":[
+    {
+      "word":"파랑",
+      "description":"", "exmples":[]
+    }
+  ],
+  "red":[
+    {
+      "word":"빨강",
+      "description":"", "exmples":[]
+    }
+  ],
+  "yellow":[
+    {
+      "word":"노랑",
+      "description":"", "exmples":[]
+    }
+  ],
+  "grey":[
+    {
+      "word":"회",
+      "description":"", "exmples":[]
+    }
+  ],
+  "green":[
+    {
+      "word":"초록 or 녹색",
+      "description":"", "exmples":[]
+    }
+  ],
+  "brown":[
+    {
+      "word":"갈",
+      "description":"", "exmples":[]
+    }
+  ],
+  "purple":[
+    {
+      "word":"보라",
+      "description":"", "exmples":[]
+    }
+  ],
+  "pink":[
+    {
+      "word":"분홍",
+      "description":"", "exmples":[]
+    }
+  ]
 }

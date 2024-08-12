@@ -1,139 +1,824 @@
 {
-    "to do":"하다",
-    "to sleep":"자다",
-    "to eat":"먹다",
-    "to drink":"마시다",
-    "to wait":"기다리다",
-    "to live":"살다",
-    "to give":"주다 or 드리다",
-    "to go":"가다",
-    "to begin":"시작하다",
-    "to not be able to":"못하다",
-    "to watch / see":"보다",
-    "to touch":"만지다",
-    "to write":"쓰다",
-    "to read":"읽다",
-    "to say / talk":"말하다",
-    "to put / place / lay":"놓다",
-    "to bite":"물다",
-    "to lie down":"눕다",
-    "to dream":"꿈을 꾸다",
-    "to catch":"잡다",
-    "to throw":"던지다",
-    "to count":"세다",
-    "to have to":"되다",
-    "to have (to hold)":"가지다",
-    "it's okay (to be okay)":"괜찮다",
-    "to choose":"고르다",
-    "to flow (for liquids)":"흐르다",
-    "to bloom":"피다",
-    "to stand":"서다",
-    "to wear":"입다",
-    "to wear (shoes)":"신다",
-    "to take off":"벗다",
-    "to be born":"태어나다",
-    "to steal":"훔치다",
-    "to hide":"숨다",
-    "to use":"사용하다",
-    "to go / to frequent":"다니다",
-    "to get up / wake up":"일어나다",
-    "to open":"열다",
-    "to close":"닫다",
-    "to get out / leave":"나가다",
-    "to clean":"청소하다",
-    "to wipe":"닦다",
-    "to fall asleep":"잠들다",
-    "to play":"놀다",
-    "to find":"찾다",
-    "to ask":"묻다",
-    "to listen":"듣다",
-    "to be dark":"어둡다",
-    "to help":"돕다",
-    "to build":"짓다",
-    "to draw":"긋다",
-    "to connect":"잇다",
-    "to get better / to cure":"낫다",
-    "to want":"원하다",
-    "to not know":"모르다",
-    "to disappear":"사라지다",
-    "to leave / get out":"내리다",
-    "to enjoy":"즐기다",
-    "to feed":"먹이다",
-    "to be different":"다르다",
-    "to raise":"기르다",
-    "to sit":"앉다",
-    "to know":"알다",
-    "to be thirsty":"목이 마르다",
-    "to send":"보내다",
-    "to recieve":"받다",
-    "to enter / go into":"들다",
-    "to drive":"운전하다",
-    "to fly":"날다",
-    "to visit":"방문하다",
-    "to call / sing":"부르다",
-    "to work":"일하다",
-    "to learn":"배우다",
-    "to study":"공부하다",
-    "to teach":"가르치다",
-    "to exercise":"운동하다",
-    "to swim":"수영하다",
-    "to dance":"춤을 추다",
-    "to buy":"사다",
-    "to sell":"팔다",
-    "to pay":"내다",
-    "to shop":"쇼핑하다",
-    "to exchange":"교환하다",
-    "to plant":"심다",
-    "to pull / unroot":"뽑다",
-    "to recommend / to be recommended":"추천하다",
-    "to organize":"준비하다",
-    "to blow":"불다",
-    "to get wet":"젖다",
-    "to pass":"통과하다 / 합격하다",
-    "to praise":"칭찬하다",
-    "to fail":"실패하다",
-    "to graduate":"졸업하다",
-    "to present":"발표하다",
-    "to go up":"오르다",
-    "to be dengerous":"위험하다",
-    "to understand":"이해하다",
-    "to bleed":"피가 나다",
-    "to catch a cold":"감기에 걸리다",
-    "to die":"사망하다",
-    "to be right":"맞다",
-    "to oppose":"반대하다",
-    "to believe":"믿다",
-    "to write a song":"적곡하다",
-    "to depart":"출발하다",
-    "to tranfer":"갈아타다",
-    "to be empty":"비다",
-    "to miss (a train)":"놓치다",
-    "to stir fry":"볶다",
-    "to steam":"찌다",
-    "to boil":"삶다 / 끓이다",
-    "to fill":"채우다",
-    "to be full (not nugry)":"배 채우다",
-    "to yield":"양보하다",
-    "to continue":"계속하다",
-    "to go straight":"죽 가다 / 직진 하다",
-    "to turn left":"좌회전하다",
-    "to turn right":"우회전하다",
-    "to bathe":"목욕하다",
-    "to shave":"면도하다",
-    "to lead (to)":"통하다",
-    "to disconnect / hang up":"끊다",
-    "to be at work":"근무하다",
-    "to be needed":"필요하다",
-    "to fire":"해고하다",
-    "to win":"이기다",
-    "to lose":"지다",
-    "to score":"득점하다",
-    "to fall":"남어지다",
-    "to cheer":"응원하다",
-    "to be dry":"건조하다",
-    "to be the same":"같다",
-    "to seem like":"것 같다",
-    "to mix":"섞다",
-    "to stir":"젓다",
-    "to cut":"자르다"
+  "to do":[
+    {
+      "word":"하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to sleep":[
+    {
+      "word":"자다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to eat":[
+    {
+      "word":"먹다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to drink":[
+    {
+      "word":"마시다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to wait":[
+    {
+      "word":"기다리다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to live":[
+    {
+      "word":"살다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to give":[
+    {
+      "word":"주다 or 드리다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to go":[
+    {
+      "word":"가다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to begin":[
+    {
+      "word":"시작하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to not be able to":[
+    {
+      "word":"못하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to watch / see":[
+    {
+      "word":"보다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to touch":[
+    {
+      "word":"만지다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to write":[
+    {
+      "word":"쓰다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to read":[
+    {
+      "word":"읽다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to say / talk":[
+    {
+      "word":"말하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to put / place / lay":[
+    {
+      "word":"놓다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to bite":[
+    {
+      "word":"물다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to lie down":[
+    {
+      "word":"눕다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to dream":[
+    {
+      "word":"꿈을 꾸다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to catch":[
+    {
+      "word":"잡다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to throw":[
+    {
+      "word":"던지다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to count":[
+    {
+      "word":"세다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to have to":[
+    {
+      "word":"되다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to have (to hold)":[
+    {
+      "word":"가지다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "it's okay (to be okay)":[
+    {
+      "word":"괜찮다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to choose":[
+    {
+      "word":"고르다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to flow (for liquids)":[
+    {
+      "word":"흐르다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to bloom":[
+    {
+      "word":"피다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to stand":[
+    {
+      "word":"서다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to wear":[
+    {
+      "word":"입다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to wear (shoes)":[
+    {
+      "word":"신다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to take off":[
+    {
+      "word":"벗다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be born":[
+    {
+      "word":"태어나다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to steal":[
+    {
+      "word":"훔치다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to hide":[
+    {
+      "word":"숨다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to use":[
+    {
+      "word":"사용하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to go / to frequent":[
+    {
+      "word":"다니다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to get up / wake up":[
+    {
+      "word":"일어나다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to open":[
+    {
+      "word":"열다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to close":[
+    {
+      "word":"닫다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to get out / leave":[
+    {
+      "word":"나가다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to clean":[
+    {
+      "word":"청소하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to wipe":[
+    {
+      "word":"닦다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to fall asleep":[
+    {
+      "word":"잠들다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to play":[
+    {
+      "word":"놀다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to find":[
+    {
+      "word":"찾다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to ask":[
+    {
+      "word":"묻다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to listen":[
+    {
+      "word":"듣다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be dark":[
+    {
+      "word":"어둡다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to help":[
+    {
+      "word":"돕다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to build":[
+    {
+      "word":"짓다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to draw":[
+    {
+      "word":"긋다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to connect":[
+    {
+      "word":"잇다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to get better / to cure":[
+    {
+      "word":"낫다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to want":[
+    {
+      "word":"원하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to not know":[
+    {
+      "word":"모르다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to disappear":[
+    {
+      "word":"사라지다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to leave / get out":[
+    {
+      "word":"내리다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to enjoy":[
+    {
+      "word":"즐기다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to feed":[
+    {
+      "word":"먹이다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be different":[
+    {
+      "word":"다르다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to raise":[
+    {
+      "word":"기르다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to sit":[
+    {
+      "word":"앉다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to know":[
+    {
+      "word":"알다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be thirsty":[
+    {
+      "word":"목이 마르다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to send":[
+    {
+      "word":"보내다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to recieve":[
+    {
+      "word":"받다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to enter / go into":[
+    {
+      "word":"들다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to drive":[
+    {
+      "word":"운전하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to fly":[
+    {
+      "word":"날다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to visit":[
+    {
+      "word":"방문하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to call / sing":[
+    {
+      "word":"부르다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to work":[
+    {
+      "word":"일하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to learn":[
+    {
+      "word":"배우다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to study":[
+    {
+      "word":"공부하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to teach":[
+    {
+      "word":"가르치다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to exercise":[
+    {
+      "word":"운동하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to swim":[
+    {
+      "word":"수영하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to dance":[
+    {
+      "word":"춤을 추다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to buy":[
+    {
+      "word":"사다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to sell":[
+    {
+      "word":"팔다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to pay":[
+    {
+      "word":"내다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to shop":[
+    {
+      "word":"쇼핑하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to exchange":[
+    {
+      "word":"교환하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to plant":[
+    {
+      "word":"심다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to pull / unroot":[
+    {
+      "word":"뽑다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to recommend / to be recommended":[
+    {
+      "word":"추천하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to organize":[
+    {
+      "word":"준비하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to blow":[
+    {
+      "word":"불다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to get wet":[
+    {
+      "word":"젖다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to pass":[
+    {
+      "word":"통과하다 / 합격하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to praise":[
+    {
+      "word":"칭찬하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to fail":[
+    {
+      "word":"실패하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to graduate":[
+    {
+      "word":"졸업하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to present":[
+    {
+      "word":"발표하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to go up":[
+    {
+      "word":"오르다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be dengerous":[
+    {
+      "word":"위험하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to understand":[
+    {
+      "word":"이해하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to bleed":[
+    {
+      "word":"피가 나다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to catch a cold":[
+    {
+      "word":"감기에 걸리다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to die":[
+    {
+      "word":"사망하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be right":[
+    {
+      "word":"맞다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to oppose":[
+    {
+      "word":"반대하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to believe":[
+    {
+      "word":"믿다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to write a song":[
+    {
+      "word":"적곡하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to depart":[
+    {
+      "word":"출발하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to tranfer":[
+    {
+      "word":"갈아타다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be empty":[
+    {
+      "word":"비다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to miss (a train)":[
+    {
+      "word":"놓치다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to stir fry":[
+    {
+      "word":"볶다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to steam":[
+    {
+      "word":"찌다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to boil":[
+    {
+      "word":"삶다 / 끓이다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to fill":[
+    {
+      "word":"채우다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be full (not nugry)":[
+    {
+      "word":"배 채우다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to yield":[
+    {
+      "word":"양보하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to continue":[
+    {
+      "word":"계속하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to go straight":[
+    {
+      "word":"죽 가다 / 직진 하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to turn left":[
+    {
+      "word":"좌회전하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to turn right":[
+    {
+      "word":"우회전하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to bathe":[
+    {
+      "word":"목욕하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to shave":[
+    {
+      "word":"면도하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to lead (to)":[
+    {
+      "word":"통하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to disconnect / hang up":[
+    {
+      "word":"끊다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be at work":[
+    {
+      "word":"근무하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be needed":[
+    {
+      "word":"필요하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to fire":[
+    {
+      "word":"해고하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to win":[
+    {
+      "word":"이기다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to lose":[
+    {
+      "word":"지다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to score":[
+    {
+      "word":"득점하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to fall":[
+    {
+      "word":"남어지다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to cheer":[
+    {
+      "word":"응원하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be dry":[
+    {
+      "word":"건조하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be the same":[
+    {
+      "word":"같다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to seem like":[
+    {
+      "word":"것 같다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to mix":[
+    {
+      "word":"섞다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to stir":[
+    {
+      "word":"젓다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to cut":[
+    {
+      "word":"자르다",
+      "description":"", "exmples":[]
+    }
+  ]
 }

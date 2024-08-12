@@ -1,15 +1,80 @@
 {
-    "small":"작은",
-    "salty":"짠",
-    "bitter":"쓴",
-    "sweet":"단",
-    "sour":"신",
-    "spicy":"매운",
-    "fresh":"신선한",
-    "bland":"싱거운",
-    "smiling":"웃는",
-    "crying":"우는",
-    "long":"긴",
-    "bad":"나쁜",
-    "new":"새"
+  "small":[
+    {
+      "word":"작은",
+      "description":"", "exmples":[]
+    }
+  ],
+  "salty":[
+    {
+      "word":"짠",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bitter":[
+    {
+      "word":"쓴",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sweet":[
+    {
+      "word":"단",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sour":[
+    {
+      "word":"신",
+      "description":"", "exmples":[]
+    }
+  ],
+  "spicy":[
+    {
+      "word":"매운",
+      "description":"", "exmples":[]
+    }
+  ],
+  "fresh":[
+    {
+      "word":"신선한",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bland":[
+    {
+      "word":"싱거운",
+      "description":"", "exmples":[]
+    }
+  ],
+  "smiling":[
+    {
+      "word":"웃는",
+      "description":"", "exmples":[]
+    }
+  ],
+  "crying":[
+    {
+      "word":"우는",
+      "description":"", "exmples":[]
+    }
+  ],
+  "long":[
+    {
+      "word":"긴",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bad":[
+    {
+      "word":"나쁜",
+      "description":"", "exmples":[]
+    }
+  ],
+  "new":[
+    {
+      "word":"새",
+      "description":"", "exmples":[]
+    }
+  ]
 }

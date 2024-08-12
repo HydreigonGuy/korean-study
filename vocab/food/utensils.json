@@ -1,14 +1,74 @@
 {
-    "fork":"포크",
-    "spoon":"숟가락",
-    "knife":"칼",
-    "cup":"컵",
-    "chopsticks":"젓가락",
-    "bowl":"그릇",
-    "plate":"접시",
-    "kettle":"주전자",
-    "ladle":"국자",
-    "pot":"냄비",
-    "lid":"뚜껑",
-    "cutting board":"도마"
+  "fork":[
+    {
+      "word":"포크",
+      "description":"", "exmples":[]
+    }
+  ],
+  "spoon":[
+    {
+      "word":"숟가락",
+      "description":"", "exmples":[]
+    }
+  ],
+  "knife":[
+    {
+      "word":"칼",
+      "description":"", "exmples":[]
+    }
+  ],
+  "cup":[
+    {
+      "word":"컵",
+      "description":"", "exmples":[]
+    }
+  ],
+  "chopsticks":[
+    {
+      "word":"젓가락",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bowl":[
+    {
+      "word":"그릇",
+      "description":"", "exmples":[]
+    }
+  ],
+  "plate":[
+    {
+      "word":"접시",
+      "description":"", "exmples":[]
+    }
+  ],
+  "kettle":[
+    {
+      "word":"주전자",
+      "description":"", "exmples":[]
+    }
+  ],
+  "ladle":[
+    {
+      "word":"국자",
+      "description":"", "exmples":[]
+    }
+  ],
+  "pot":[
+    {
+      "word":"냄비",
+      "description":"", "exmples":[]
+    }
+  ],
+  "lid":[
+    {
+      "word":"뚜껑",
+      "description":"", "exmples":[]
+    }
+  ],
+  "cutting board":[
+    {
+      "word":"도마",
+      "description":"", "exmples":[]
+    }
+  ]
 }

@@ -1,53 +1,308 @@
 {
-    "animal":"동물",
-    "cat":"고양이",
-    "dog":"개",
-    "turtle":"고북이",
-    "tiger":"호랑이",
-    "rabbit":"토끼",
-    "wolf":"늑대",
-    "spider":"거미",
-    "mouse":"쥐",
-    "sheep":"양",
-    "cow":"소",
-    "horse":"말",
-    "pig":"돼지",
-    "butterfly":"나비",
-    "bear":"곰",
-    "elephant":"코끼리",
-    "snake":"뱀",
-    "goose":"거위",
-    "deer":"사슴",
-    "lion":"사자",
-    "frog":"개구리",
-    "raccoon":"너구리",
-    "fox":"여우",
-    "monkey":"원숭이",
-    "toad":"두꺼비",
-    "leopard":"표범",
-    "giraffe":"기린",
-    "rhinoceros":"코뿔소",
-    "bat":"박쥐",
-    "boar":"멧돼지",
-    "bird":"새",
-    "duck":"오리",
-    "chicken":"닭",
-    "owl":"부엉이",
-    "eagle":"독수리",
-    "crane":"두루미",
-    "crow":"까마귀",
-    "fish":"물고기",
-    "crab":"게",
-    "shark":"상어",
-    "whale":"고래",
-    "eel":"장어",
-    "parrot":"앵무새",
-    "hamster":"햄스터",
-    "puppy":"강아지",
-    "dragon":"용",
-    "ladybug":"무당벌레",
-    "pigeon":"비둘기",
-    "squirrel":"다람쥐",
-    "mosqito":"모기",
-    "sparrow":"참새"
+  "animal":[
+    {
+      "word":"동물",
+      "description":"", "exmples":[]
+    }
+  ],
+  "cat":[
+    {
+      "word":"고양이",
+      "description":"", "exmples":[]
+    }
+  ],
+  "dog":[
+    {
+      "word":"개",
+      "description":"", "exmples":[]
+    }
+  ],
+  "turtle":[
+    {
+      "word":"고북이",
+      "description":"", "exmples":[]
+    }
+  ],
+  "tiger":[
+    {
+      "word":"호랑이",
+      "description":"", "exmples":[]
+    }
+  ],
+  "rabbit":[
+    {
+      "word":"토끼",
+      "description":"", "exmples":[]
+    }
+  ],
+  "wolf":[
+    {
+      "word":"늑대",
+      "description":"", "exmples":[]
+    }
+  ],
+  "spider":[
+    {
+      "word":"거미",
+      "description":"", "exmples":[]
+    }
+  ],
+  "mouse":[
+    {
+      "word":"쥐",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sheep":[
+    {
+      "word":"양",
+      "description":"", "exmples":[]
+    }
+  ],
+  "cow":[
+    {
+      "word":"소",
+      "description":"", "exmples":[]
+    }
+  ],
+  "horse":[
+    {
+      "word":"말",
+      "description":"", "exmples":[]
+    }
+  ],
+  "pig":[
+    {
+      "word":"돼지",
+      "description":"", "exmples":[]
+    }
+  ],
+  "butterfly":[
+    {
+      "word":"나비",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bear":[
+    {
+      "word":"곰",
+      "description":"", "exmples":[]
+    }
+  ],
+  "elephant":[
+    {
+      "word":"코끼리",
+      "description":"", "exmples":[]
+    }
+  ],
+  "snake":[
+    {
+      "word":"뱀",
+      "description":"", "exmples":[]
+    }
+  ],
+  "goose":[
+    {
+      "word":"거위",
+      "description":"", "exmples":[]
+    }
+  ],
+  "deer":[
+    {
+      "word":"사슴",
+      "description":"", "exmples":[]
+    }
+  ],
+  "lion":[
+    {
+      "word":"사자",
+      "description":"", "exmples":[]
+    }
+  ],
+  "frog":[
+    {
+      "word":"개구리",
+      "description":"", "exmples":[]
+    }
+  ],
+  "raccoon":[
+    {
+      "word":"너구리",
+      "description":"", "exmples":[]
+    }
+  ],
+  "fox":[
+    {
+      "word":"여우",
+      "description":"", "exmples":[]
+    }
+  ],
+  "monkey":[
+    {
+      "word":"원숭이",
+      "description":"", "exmples":[]
+    }
+  ],
+  "toad":[
+    {
+      "word":"두꺼비",
+      "description":"", "exmples":[]
+    }
+  ],
+  "leopard":[
+    {
+      "word":"표범",
+      "description":"", "exmples":[]
+    }
+  ],
+  "giraffe":[
+    {
+      "word":"기린",
+      "description":"", "exmples":[]
+    }
+  ],
+  "rhinoceros":[
+    {
+      "word":"코뿔소",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bat":[
+    {
+      "word":"박쥐",
+      "description":"", "exmples":[]
+    }
+  ],
+  "boar":[
+    {
+      "word":"멧돼지",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bird":[
+    {
+      "word":"새",
+      "description":"", "exmples":[]
+    }
+  ],
+  "duck":[
+    {
+      "word":"오리",
+      "description":"", "exmples":[]
+    }
+  ],
+  "chicken":[
+    {
+      "word":"닭",
+      "description":"", "exmples":[]
+    }
+  ],
+  "owl":[
+    {
+      "word":"부엉이",
+      "description":"", "exmples":[]
+    }
+  ],
+  "eagle":[
+    {
+      "word":"독수리",
+      "description":"", "exmples":[]
+    }
+  ],
+  "crane":[
+    {
+      "word":"두루미",
+      "description":"", "exmples":[]
+    }
+  ],
+  "crow":[
+    {
+      "word":"까마귀",
+      "description":"", "exmples":[]
+    }
+  ],
+  "fish":[
+    {
+      "word":"물고기",
+      "description":"", "exmples":[]
+    }
+  ],
+  "crab":[
+    {
+      "word":"게",
+      "description":"", "exmples":[]
+    }
+  ],
+  "shark":[
+    {
+      "word":"상어",
+      "description":"", "exmples":[]
+    }
+  ],
+  "whale":[
+    {
+      "word":"고래",
+      "description":"", "exmples":[]
+    }
+  ],
+  "eel":[
+    {
+      "word":"장어",
+      "description":"", "exmples":[]
+    }
+  ],
+  "parrot":[
+    {
+      "word":"앵무새",
+      "description":"", "exmples":[]
+    }
+  ],
+  "hamster":[
+    {
+      "word":"햄스터",
+      "description":"", "exmples":[]
+    }
+  ],
+  "puppy":[
+    {
+      "word":"강아지",
+      "description":"", "exmples":[]
+    }
+  ],
+  "dragon":[
+    {
+      "word":"용",
+      "description":"", "exmples":[]
+    }
+  ],
+  "ladybug":[
+    {
+      "word":"무당벌레",
+      "description":"", "exmples":[]
+    }
+  ],
+  "pigeon":[
+    {
+      "word":"비둘기",
+      "description":"", "exmples":[]
+    }
+  ],
+  "squirrel":[
+    {
+      "word":"다람쥐",
+      "description":"", "exmples":[]
+    }
+  ],
+  "mosqito":[
+    {
+      "word":"모기",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sparrow":[
+    {
+      "word":"참새",
+      "description":"", "exmples":[]
+    }
+  ]
 }

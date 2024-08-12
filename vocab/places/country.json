@@ -1,9 +1,44 @@
 {
-    "korea":"한국",
-    "china":"중국",
-    "japan":"일본",
-    "france":"프랑스",
-    "germany":"독일",
-    "uk":"영국",
-    "usa":"미국"
+  "korea":[
+    {
+      "word":"한국",
+      "description":"", "exmples":[]
+    }
+  ],
+  "china":[
+    {
+      "word":"중국",
+      "description":"", "exmples":[]
+    }
+  ],
+  "japan":[
+    {
+      "word":"일본",
+      "description":"", "exmples":[]
+    }
+  ],
+  "france":[
+    {
+      "word":"프랑스",
+      "description":"", "exmples":[]
+    }
+  ],
+  "germany":[
+    {
+      "word":"독일",
+      "description":"", "exmples":[]
+    }
+  ],
+  "uk":[
+    {
+      "word":"영국",
+      "description":"", "exmples":[]
+    }
+  ],
+  "usa":[
+    {
+      "word":"미국",
+      "description":"", "exmples":[]
+    }
+  ]
 }

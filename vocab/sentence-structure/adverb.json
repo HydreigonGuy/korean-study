@@ -1,16 +1,86 @@
 {
-    "particularly":"특히",
-    "really / very":"참 or 아주 or 정말",
-    "too (much)":"너무",
-    "quite":"꽤",
-    "nearly / almost":"거의",
-    "not really":"별로",
-    "not at all":"전혀",
-    "the most":"제일",
-    "slowly":"천천히",
-    "more":"더",
-    "less":"덜",
-    "a little":"조금",
-    "a lot":"많",
-    "personally":"개인적으로"
+  "particularly":[
+    {
+      "word":"특히",
+      "description":"", "exmples":[]
+    }
+  ],
+  "really / very":[
+    {
+      "word":"참 or 아주 or 정말",
+      "description":"", "exmples":[]
+    }
+  ],
+  "too (much)":[
+    {
+      "word":"너무",
+      "description":"", "exmples":[]
+    }
+  ],
+  "quite":[
+    {
+      "word":"꽤",
+      "description":"", "exmples":[]
+    }
+  ],
+  "nearly / almost":[
+    {
+      "word":"거의",
+      "description":"", "exmples":[]
+    }
+  ],
+  "not really":[
+    {
+      "word":"별로",
+      "description":"", "exmples":[]
+    }
+  ],
+  "not at all":[
+    {
+      "word":"전혀",
+      "description":"", "exmples":[]
+    }
+  ],
+  "the most":[
+    {
+      "word":"제일",
+      "description":"", "exmples":[]
+    }
+  ],
+  "slowly":[
+    {
+      "word":"천천히",
+      "description":"", "exmples":[]
+    }
+  ],
+  "more":[
+    {
+      "word":"더",
+      "description":"", "exmples":[]
+    }
+  ],
+  "less":[
+    {
+      "word":"덜",
+      "description":"", "exmples":[]
+    }
+  ],
+  "a little":[
+    {
+      "word":"조금",
+      "description":"", "exmples":[]
+    }
+  ],
+  "a lot":[
+    {
+      "word":"많",
+      "description":"", "exmples":[]
+    }
+  ],
+  "personally":[
+    {
+      "word":"개인적으로",
+      "description":"", "exmples":[]
+    }
+  ]
 }

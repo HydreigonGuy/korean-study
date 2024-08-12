@@ -1,18 +1,98 @@
 {
-    "left":"왼쪽",
-    "right":"오른쪽",
-    "far away":"멀리",
-    "across":"건나편",
-    "near":"가까이 or 근처",
-    "in front of":"앞",
-    "next to":"옆",
-    "inside of":"안",
-    "behind":"뒤",
-    "under":"아래 or 밑",
-    "right _ / directly _":"바로 _",
-    "within / amongst":"속",
-    "in the center":"가운데",
-    "between":"사이",
-    "outside":"밖",
-    "on top of":"위"
+  "left":[
+    {
+      "word":"왼쪽",
+      "description":"", "exmples":[]
+    }
+  ],
+  "right":[
+    {
+      "word":"오른쪽",
+      "description":"", "exmples":[]
+    }
+  ],
+  "far away":[
+    {
+      "word":"멀리",
+      "description":"", "exmples":[]
+    }
+  ],
+  "across":[
+    {
+      "word":"건나편",
+      "description":"", "exmples":[]
+    }
+  ],
+  "near":[
+    {
+      "word":"가까이 or 근처",
+      "description":"", "exmples":[]
+    }
+  ],
+  "in front of":[
+    {
+      "word":"앞",
+      "description":"", "exmples":[]
+    }
+  ],
+  "next to":[
+    {
+      "word":"옆",
+      "description":"", "exmples":[]
+    }
+  ],
+  "inside of":[
+    {
+      "word":"안",
+      "description":"", "exmples":[]
+    }
+  ],
+  "behind":[
+    {
+      "word":"뒤",
+      "description":"", "exmples":[]
+    }
+  ],
+  "under":[
+    {
+      "word":"아래 or 밑",
+      "description":"", "exmples":[]
+    }
+  ],
+  "right _ / directly _":[
+    {
+      "word":"바로 _",
+      "description":"", "exmples":[]
+    }
+  ],
+  "within / amongst":[
+    {
+      "word":"속",
+      "description":"", "exmples":[]
+    }
+  ],
+  "in the center":[
+    {
+      "word":"가운데",
+      "description":"", "exmples":[]
+    }
+  ],
+  "between":[
+    {
+      "word":"사이",
+      "description":"", "exmples":[]
+    }
+  ],
+  "outside":[
+    {
+      "word":"밖",
+      "description":"", "exmples":[]
+    }
+  ],
+  "on top of":[
+    {
+      "word":"위",
+      "description":"", "exmples":[]
+    }
+  ]
 }

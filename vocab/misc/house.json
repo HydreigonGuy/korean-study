@@ -1,42 +1,242 @@
 {
-    "garden":"정원",
-    "yard":"마당",
-    "garage":"차고",
-    "roof":"지붕",
-    "sofa":"소파",
-    "floor":"마루",
-    "furniture":"가구",
-    "bookshelf":"책꽂이",
-    "living room":"거실",
-    "wall":"벽",
-    "wardrobe":"옷장",
-    "bedroom":"침실",
-    "closet":"벽장",
-    "pillow":"베개",
-    "washing machine":"세탁기",
-    "bedsheet":"침대보",
-    "blanket":"담요",
-    "table cloth":"식탁보",
-    "kitchen":"주방",
-    "oven":"오븐",
-    "refrigirator":"냉장고",
-    "dishwasher":"식기세척기",
-    "gas stove":"가스레인지",
-    "freezer":"냉동고",
-    "cabinet":"찬장",
-    "fence":"울타리",
-    "shed":"창고",
-    "(kitchen) table":"식탁",
-    "trash can":"휴지통",
-    "vase":"꽃병",
-    "patio":"파티오",
-    "parasol":"파라솔",
-    "veranda":"베란다",
-    "rocking chair":"흔들의자",
-    "toilet":"변기",
-    "bathroom":"욕실",
-    "sink":"신크대",
-    "towel":"수건",
-    "bathtub":"욕조",
-    "underfloor heater":"온돌"
+  "garden":[
+    {
+      "word":"정원",
+      "description":"", "exmples":[]
+    }
+  ],
+  "yard":[
+    {
+      "word":"마당",
+      "description":"", "exmples":[]
+    }
+  ],
+  "garage":[
+    {
+      "word":"차고",
+      "description":"", "exmples":[]
+    }
+  ],
+  "roof":[
+    {
+      "word":"지붕",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sofa":[
+    {
+      "word":"소파",
+      "description":"", "exmples":[]
+    }
+  ],
+  "floor":[
+    {
+      "word":"마루",
+      "description":"", "exmples":[]
+    }
+  ],
+  "furniture":[
+    {
+      "word":"가구",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bookshelf":[
+    {
+      "word":"책꽂이",
+      "description":"", "exmples":[]
+    }
+  ],
+  "living room":[
+    {
+      "word":"거실",
+      "description":"", "exmples":[]
+    }
+  ],
+  "wall":[
+    {
+      "word":"벽",
+      "description":"", "exmples":[]
+    }
+  ],
+  "wardrobe":[
+    {
+      "word":"옷장",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bedroom":[
+    {
+      "word":"침실",
+      "description":"", "exmples":[]
+    }
+  ],
+  "closet":[
+    {
+      "word":"벽장",
+      "description":"", "exmples":[]
+    }
+  ],
+  "pillow":[
+    {
+      "word":"베개",
+      "description":"", "exmples":[]
+    }
+  ],
+  "washing machine":[
+    {
+      "word":"세탁기",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bedsheet":[
+    {
+      "word":"침대보",
+      "description":"", "exmples":[]
+    }
+  ],
+  "blanket":[
+    {
+      "word":"담요",
+      "description":"", "exmples":[]
+    }
+  ],
+  "table cloth":[
+    {
+      "word":"식탁보",
+      "description":"", "exmples":[]
+    }
+  ],
+  "kitchen":[
+    {
+      "word":"주방",
+      "description":"", "exmples":[]
+    }
+  ],
+  "oven":[
+    {
+      "word":"오븐",
+      "description":"", "exmples":[]
+    }
+  ],
+  "refrigirator":[
+    {
+      "word":"냉장고",
+      "description":"", "exmples":[]
+    }
+  ],
+  "dishwasher":[
+    {
+      "word":"식기세척기",
+      "description":"", "exmples":[]
+    }
+  ],
+  "gas stove":[
+    {
+      "word":"가스레인지",
+      "description":"", "exmples":[]
+    }
+  ],
+  "freezer":[
+    {
+      "word":"냉동고",
+      "description":"", "exmples":[]
+    }
+  ],
+  "cabinet":[
+    {
+      "word":"찬장",
+      "description":"", "exmples":[]
+    }
+  ],
+  "fence":[
+    {
+      "word":"울타리",
+      "description":"", "exmples":[]
+    }
+  ],
+  "shed":[
+    {
+      "word":"창고",
+      "description":"", "exmples":[]
+    }
+  ],
+  "(kitchen) table":[
+    {
+      "word":"식탁",
+      "description":"", "exmples":[]
+    }
+  ],
+  "trash can":[
+    {
+      "word":"휴지통",
+      "description":"", "exmples":[]
+    }
+  ],
+  "vase":[
+    {
+      "word":"꽃병",
+      "description":"", "exmples":[]
+    }
+  ],
+  "patio":[
+    {
+      "word":"파티오",
+      "description":"", "exmples":[]
+    }
+  ],
+  "parasol":[
+    {
+      "word":"파라솔",
+      "description":"", "exmples":[]
+    }
+  ],
+  "veranda":[
+    {
+      "word":"베란다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "rocking chair":[
+    {
+      "word":"흔들의자",
+      "description":"", "exmples":[]
+    }
+  ],
+  "toilet":[
+    {
+      "word":"변기",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bathroom":[
+    {
+      "word":"욕실",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sink":[
+    {
+      "word":"신크대",
+      "description":"", "exmples":[]
+    }
+  ],
+  "towel":[
+    {
+      "word":"수건",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bathtub":[
+    {
+      "word":"욕조",
+      "description":"", "exmples":[]
+    }
+  ],
+  "underfloor heater":[
+    {
+      "word":"온돌",
+      "description":"", "exmples":[]
+    }
+  ]
 }

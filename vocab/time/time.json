@@ -1,31 +1,176 @@
 {
-    "early":"일찍",
-    "just (just now)":"방금",
-    "last night":"어젯밤",
-    "weekend":"주말",
-    "yet / still":"아직",
-    "last week":"지난주",
-    "week":"주",
-    "night":"밤",
-    "dawn":"새벽",
-    "afternoon":"오후",
-    "morning":"오전",
-    "noon":"정오",
-    "midnight":"자정",
-    "a second":"초",
-    "a minute":"분",
-    "an hour":"시간",
-    "now":"지금",
-    "recently":"요즘",
-    "all day":"하루 종일",
-    "month":"월",
-    "a few days":"며칠",
-    "year":"년",
-    "day":"날",
-    "next year":"내년",
-    "last month":"지난달",
-    "this year":"올해",
-    "last year":"작년",
-    "day after day":"하루하루",
-    "one day":"하루"
+  "early":[
+    {
+      "word":"일찍",
+      "description":"", "exmples":[]
+    }
+  ],
+  "just (just now)":[
+    {
+      "word":"방금",
+      "description":"", "exmples":[]
+    }
+  ],
+  "last night":[
+    {
+      "word":"어젯밤",
+      "description":"", "exmples":[]
+    }
+  ],
+  "weekend":[
+    {
+      "word":"주말",
+      "description":"", "exmples":[]
+    }
+  ],
+  "yet / still":[
+    {
+      "word":"아직",
+      "description":"", "exmples":[]
+    }
+  ],
+  "last week":[
+    {
+      "word":"지난주",
+      "description":"", "exmples":[]
+    }
+  ],
+  "week":[
+    {
+      "word":"주",
+      "description":"", "exmples":[]
+    }
+  ],
+  "night":[
+    {
+      "word":"밤",
+      "description":"", "exmples":[]
+    }
+  ],
+  "dawn":[
+    {
+      "word":"새벽",
+      "description":"", "exmples":[]
+    }
+  ],
+  "afternoon":[
+    {
+      "word":"오후",
+      "description":"", "exmples":[]
+    }
+  ],
+  "morning":[
+    {
+      "word":"오전",
+      "description":"", "exmples":[]
+    }
+  ],
+  "noon":[
+    {
+      "word":"정오",
+      "description":"", "exmples":[]
+    }
+  ],
+  "midnight":[
+    {
+      "word":"자정",
+      "description":"", "exmples":[]
+    }
+  ],
+  "a second":[
+    {
+      "word":"초",
+      "description":"", "exmples":[]
+    }
+  ],
+  "a minute":[
+    {
+      "word":"분",
+      "description":"", "exmples":[]
+    }
+  ],
+  "an hour":[
+    {
+      "word":"시간",
+      "description":"", "exmples":[]
+    }
+  ],
+  "now":[
+    {
+      "word":"지금",
+      "description":"", "exmples":[]
+    }
+  ],
+  "recently":[
+    {
+      "word":"요즘",
+      "description":"", "exmples":[]
+    }
+  ],
+  "all day":[
+    {
+      "word":"하루 종일",
+      "description":"", "exmples":[]
+    }
+  ],
+  "month":[
+    {
+      "word":"월",
+      "description":"", "exmples":[]
+    }
+  ],
+  "a few days":[
+    {
+      "word":"며칠",
+      "description":"", "exmples":[]
+    }
+  ],
+  "year":[
+    {
+      "word":"년",
+      "description":"", "exmples":[]
+    }
+  ],
+  "day":[
+    {
+      "word":"날",
+      "description":"", "exmples":[]
+    }
+  ],
+  "next year":[
+    {
+      "word":"내년",
+      "description":"", "exmples":[]
+    }
+  ],
+  "last month":[
+    {
+      "word":"지난달",
+      "description":"", "exmples":[]
+    }
+  ],
+  "this year":[
+    {
+      "word":"올해",
+      "description":"", "exmples":[]
+    }
+  ],
+  "last year":[
+    {
+      "word":"작년",
+      "description":"", "exmples":[]
+    }
+  ],
+  "day after day":[
+    {
+      "word":"하루하루",
+      "description":"", "exmples":[]
+    }
+  ],
+  "one day":[
+    {
+      "word":"하루",
+      "description":"", "exmples":[]
+    }
+  ]
 }

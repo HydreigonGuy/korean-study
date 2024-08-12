@@ -1,7 +1,32 @@
 {
-    "season":"계절",
-    "spring":"봄",
-    "summer":"여름",
-    "fall":"가을",
-    "winter":"겨울"
+  "season":[
+    {
+      "word":"계절",
+      "description":"", "exmples":[]
+    }
+  ],
+  "spring":[
+    {
+      "word":"봄",
+      "description":"", "exmples":[]
+    }
+  ],
+  "summer":[
+    {
+      "word":"여름",
+      "description":"", "exmples":[]
+    }
+  ],
+  "fall":[
+    {
+      "word":"가을",
+      "description":"", "exmples":[]
+    }
+  ],
+  "winter":[
+    {
+      "word":"겨울",
+      "description":"", "exmples":[]
+    }
+  ]
 }

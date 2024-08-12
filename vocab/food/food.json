@@ -1,36 +1,206 @@
 {
-    "salt":"소금",
-    "chilly pepper":"고추",
-    "honey":"꿀",
-    "sugar":"설탕",
-    "pepper":"후추",
-    "egg":"달걀",
-    "fish":"생선",
-    "jam":"잼",
-    "cheese":"치즈",
-    "sandwitch":"샌드위치",
-    "corn":"옥수수",
-    "potato":"감자",
-    "side dish":"반찬",
-    "rice cake":"떡",
-    "cake":"케이크",
-    "pumpkin":"호박",
-    "snack":"과자",
-    "sea food":"해산물",
-    "stew":"찌개",
-    "sweet potato":"고구마",
-    "bell pepper":"피망",
-    "bean":"콩",
-    "bean sprout":"콩나물",
-    "fries":"감자 튀김",
-    "waffle":"와플",
-    "syrup":"시럽",
-    "onion":"양파",
-    "ham":"햄",
-    "cabbage":"배추 / 양배추",
-    "butter":"버터",
-    "sauce":"소스",
-    "soy sauce":"간장",
-    "broth":"국물",
-    "soup":"국"
+  "salt":[
+    {
+      "word":"소금",
+      "description":"", "exmples":[]
+    }
+  ],
+  "chilly pepper":[
+    {
+      "word":"고추",
+      "description":"", "exmples":[]
+    }
+  ],
+  "honey":[
+    {
+      "word":"꿀",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sugar":[
+    {
+      "word":"설탕",
+      "description":"", "exmples":[]
+    }
+  ],
+  "pepper":[
+    {
+      "word":"후추",
+      "description":"", "exmples":[]
+    }
+  ],
+  "egg":[
+    {
+      "word":"달걀",
+      "description":"", "exmples":[]
+    }
+  ],
+  "fish":[
+    {
+      "word":"생선",
+      "description":"", "exmples":[]
+    }
+  ],
+  "jam":[
+    {
+      "word":"잼",
+      "description":"", "exmples":[]
+    }
+  ],
+  "cheese":[
+    {
+      "word":"치즈",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sandwitch":[
+    {
+      "word":"샌드위치",
+      "description":"", "exmples":[]
+    }
+  ],
+  "corn":[
+    {
+      "word":"옥수수",
+      "description":"", "exmples":[]
+    }
+  ],
+  "potato":[
+    {
+      "word":"감자",
+      "description":"", "exmples":[]
+    }
+  ],
+  "side dish":[
+    {
+      "word":"반찬",
+      "description":"", "exmples":[]
+    }
+  ],
+  "rice cake":[
+    {
+      "word":"떡",
+      "description":"", "exmples":[]
+    }
+  ],
+  "cake":[
+    {
+      "word":"케이크",
+      "description":"", "exmples":[]
+    }
+  ],
+  "pumpkin":[
+    {
+      "word":"호박",
+      "description":"", "exmples":[]
+    }
+  ],
+  "snack":[
+    {
+      "word":"과자",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sea food":[
+    {
+      "word":"해산물",
+      "description":"", "exmples":[]
+    }
+  ],
+  "stew":[
+    {
+      "word":"찌개",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sweet potato":[
+    {
+      "word":"고구마",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bell pepper":[
+    {
+      "word":"피망",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bean":[
+    {
+      "word":"콩",
+      "description":"", "exmples":[]
+    }
+  ],
+  "bean sprout":[
+    {
+      "word":"콩나물",
+      "description":"", "exmples":[]
+    }
+  ],
+  "fries":[
+    {
+      "word":"감자 튀김",
+      "description":"", "exmples":[]
+    }
+  ],
+  "waffle":[
+    {
+      "word":"와플",
+      "description":"", "exmples":[]
+    }
+  ],
+  "syrup":[
+    {
+      "word":"시럽",
+      "description":"", "exmples":[]
+    }
+  ],
+  "onion":[
+    {
+      "word":"양파",
+      "description":"", "exmples":[]
+    }
+  ],
+  "ham":[
+    {
+      "word":"햄",
+      "description":"", "exmples":[]
+    }
+  ],
+  "cabbage":[
+    {
+      "word":"배추 / 양배추",
+      "description":"", "exmples":[]
+    }
+  ],
+  "butter":[
+    {
+      "word":"버터",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sauce":[
+    {
+      "word":"소스",
+      "description":"", "exmples":[]
+    }
+  ],
+  "soy sauce":[
+    {
+      "word":"간장",
+      "description":"", "exmples":[]
+    }
+  ],
+  "broth":[
+    {
+      "word":"국물",
+      "description":"", "exmples":[]
+    }
+  ],
+  "soup":[
+    {
+      "word":"국",
+      "description":"", "exmples":[]
+    }
+  ]
 }

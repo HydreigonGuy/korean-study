@@ -25,7 +25,11 @@
   ],
   "near":[
     {
-      "word":"가까이 or 근처",
+      "word":"가까이",
+      "description":"", "exmples":[]
+    },
+    {
+      "word":"근처",
       "description":"", "exmples":[]
     }
   ],
@@ -55,20 +59,24 @@
   ],
   "under":[
     {
-      "word":"아래 or 밑",
+      "word":"아래",
       "description":"", "exmples":[]
-    }
-  ],
-  "right _ / directly _":[
+    },
     {
-      "word":"바로 _",
+      "word":"밑",
       "description":"", "exmples":[]
     }
   ],
-  "within / amongst":[
+  "directly":[
+    {
+      "word":"바로",
+      "description":"right _ / directly _ = 바로 _, right under, directly above, ...", "exmples":[]
+    }
+  ],
+  "within":[
     {
       "word":"속",
-      "description":"", "exmples":[]
+      "description":"within / amongst", "exmples":[]
     }
   ],
   "in the center":[

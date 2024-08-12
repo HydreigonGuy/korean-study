@@ -37,7 +37,11 @@
   ],
   "to give":[
     {
-      "word":"주다 or 드리다",
+      "word":"주다",
+      "description":"", "exmples":[]
+    },
+    {
+      "word":"드리다",
       "description":"", "exmples":[]
     }
   ],
@@ -541,7 +545,11 @@
   ],
   "to pass":[
     {
-      "word":"통과하다 / 합격하다",
+      "word":"통과하다",
+      "description":"", "exmples":[]
+    },
+    {
+      "word":"합격하다",
       "description":"", "exmples":[]
     }
   ],
@@ -667,7 +675,11 @@
   ],
   "to boil":[
     {
-      "word":"삶다 / 끓이다",
+      "word":"삶다",
+      "description":"", "exmples":[]
+    },
+    {
+      "word":"끓이다",
       "description":"", "exmples":[]
     }
   ],
@@ -697,7 +709,11 @@
   ],
   "to go straight":[
     {
-      "word":"죽 가다 / 직진 하다",
+      "word":"죽 가다",
+      "description":"", "exmples":[]
+    },
+    {
+      "word":"직진 하다",
       "description":"", "exmples":[]
     }
   ],

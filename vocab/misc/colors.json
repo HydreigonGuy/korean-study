@@ -37,7 +37,11 @@
   ],
   "green":[
     {
-      "word":"초록 or 녹색",
+      "word":"초록",
+      "description":"", "exmples":[]
+    },
+    {
+      "word":"녹색",
       "description":"", "exmples":[]
     }
   ],

@@ -139,14 +139,14 @@
   ],
   "school principal":[
     {
-      "word":"교장 (선생님)",
-      "description":"", "exmples":[]
+      "word":"교장",
+      "description":"교장 or 교장 선생님", "exmples":[]
     }
   ],
   "homeroom teacher":[
     {
-      "word":"담임 (선생님)",
-      "description":"", "exmples":[]
+      "word":"담임",
+      "description":"담임 or 담임 선생님", "exmples":[]
     }
   ],
   "test / exam":[
@@ -193,7 +193,11 @@
   ],
   "pass":[
     {
-      "word":"통과 / 합격",
+      "word":"통과",
+      "description":"", "exmples":[]
+    },
+    {
+      "word":"합격",
       "description":"", "exmples":[]
     }
   ],

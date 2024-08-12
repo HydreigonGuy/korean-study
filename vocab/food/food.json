@@ -169,8 +169,12 @@
   ],
   "cabbage":[
     {
-      "word":"배추 / 양배추",
-      "description":"", "exmples":[]
+      "word":"배추",
+      "description":"Korean / Chinese cabbage", "exmples":[]
+    },
+    {
+      "word":"양배추",
+      "description":"Salad like we find in America or Europe", "exmples":[]
     }
   ],
   "butter":[

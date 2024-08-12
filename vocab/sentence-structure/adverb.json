@@ -7,14 +7,22 @@
   ],
   "really / very":[
     {
-      "word":"참 or 아주 or 정말",
+      "word":"참",
+      "description":"", "exmples":[]
+    },
+    {
+      "word":"아주",
+      "description":"", "exmples":[]
+    },
+    {
+      "word":"정말",
       "description":"", "exmples":[]
     }
   ],
-  "too (much)":[
+  "too":[
     {
       "word":"너무",
-      "description":"", "exmples":[]
+      "description":"too (much)", "exmples":[]
     }
   ],
   "quite":[

@@ -19,7 +19,11 @@
   ],
   "driver":[
     {
-      "word":"기사 / 운전자",
+      "word":"기사",
+      "description":"", "exmples":[]
+    },
+    {
+      "word":"운전자",
       "description":"", "exmples":[]
     }
   ],

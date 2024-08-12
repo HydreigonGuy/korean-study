@@ -37,7 +37,11 @@
   ],
   "which":[
     {
-      "word":"어느 or 어떤",
+      "word":"어느",
+      "description":"", "exmples":[]
+    },
+    {
+      "word":"어떤",
       "description":"", "exmples":[]
     }
   ],

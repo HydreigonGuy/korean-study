@@ -10,7 +10,8 @@ COPY requirements.txt /app
 RUN pip install -r requirements.txt --no-cache-dir
 
 COPY ./src/ /app/
+COPY ./vocab/ /app/vocab
 
-RUN python manage.py migrate
+ENV SQL_ENGINE=django.db.backends.postgresql
 
 CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]

@@ -8,7 +8,7 @@ class Command(BaseCommand):
     help = "Loads Vocab into DB"
 
 
-    FILES_PATH = "../vocab"
+    FILES_PATH = "./vocab"
 
 
     def retrieve_file_contents(self, path):
@@ -32,4 +32,12 @@ class Command(BaseCommand):
         parser.add_argument("path", type=str)
 
     def handle(self, *args, **options):
-        print(self.retrieve_file_contents(options["path"]))
+        data = self.retrieve_file_contents(options["path"])
+        for d in data:
+            word = EnglishWord(word=d)
+            word.save()
+            for k_w in data[d]:
+                k_word = KoreanWord(word=k_w["word"], description=k_w["description"], examples=k_w["exmples"])
+                k_word.save()
+                word.korean.add(k_word)
+            word.save()

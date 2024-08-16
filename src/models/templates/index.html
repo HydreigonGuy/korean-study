@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <head>
   {% load static %}
-  <script src="{% static 'js/app.js' %}"></script>   
+  <script src="{% static 'js/app.js' %}"></script>
+  <link rel="stylesheet" href="{% static 'css/styles.css' %}">
   <title>Korean Study</title>
 </head>
 <body>
+  <div class="content">
     <span id="word"></span>
     <input id="input" type="text"/>
     <button onclick={check()}>Check</button>
     <p id="previous-words"></p>
+  </div>
 </body>

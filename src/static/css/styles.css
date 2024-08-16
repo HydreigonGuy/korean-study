@@ -1,0 +1,24 @@
+
+@font-face {
+    font-family: "My Custom Font";
+    src: url("{% static 'fonts/Noto_Sans_KR/NotoSansKR-VariableFont_wght.ttf' %}") format("truetype");
+}
+
+body {
+    padding-top: 40px;
+    background-color: black;
+    color: white;
+    font-family: "My Custom Font";
+}
+
+.content {
+    text-align: center;
+}
+
+.correct {
+    color: green;
+}
+
+.wrong {
+    color: red;
+}

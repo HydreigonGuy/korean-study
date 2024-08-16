@@ -23,9 +23,9 @@ function check() {
         kr_list.push(word.korean[k_word].word)
     }
     if (correct)
-        word_info = "O"
+        word_info = "<span class='correct'>O</span>"
     else
-        word_info = "X"
+        word_info = "<span class='wrong'>X</span>"
     word_info = word_info + " - " + word.word + ": " + kr_list.join(', ') + "<br/>";
     document.getElementById("previous-words").innerHTML = word_info + document.getElementById("previous-words").innerHTML;
     document.getElementById("input").value = "";

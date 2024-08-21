@@ -24,7 +24,7 @@ jobs:
 
     - name: Build Docker Image
       run: |
-        docker build -f dockerfile.prod . -t $DOCKER_REGISTRY
+        docker build . -t $DOCKER_REGISTRY
       
     - name: Docker Push
       run: docker push $DOCKER_REGISTRY

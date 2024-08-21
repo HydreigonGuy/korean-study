@@ -34,10 +34,13 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         data = self.retrieve_file_contents(options["path"])
         for d in data:
-            word = EnglishWord(word=d)
-            word.save()
-            for k_w in data[d]:
-                k_word = KoreanWord(word=k_w["word"], description=k_w["description"], examples=k_w["exmples"])
-                k_word.save()
-                word.korean.add(k_word)
-            word.save()
+            try:
+                word = EnglishWord(word=d)
+                word.save()
+                for k_w in data[d]:
+                    k_word = KoreanWord(word=k_w["word"], description=k_w["description"], examples=k_w["exmples"])
+                    k_word.save()
+                    word.korean.add(k_word)
+                word.save()
+            except:
+                print("error with word: " + d)

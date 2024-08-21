@@ -133,6 +133,10 @@
     {
       "word":"노동자",
       "description":"", "exmples":[]
+    },
+    {
+      "word":"근로자",
+      "description":"", "exmples":[]
     }
   ],
   "employee":[
@@ -144,6 +148,18 @@
   "unemployed":[
     {
       "word":"실업자",
+      "description":"", "exmples":[]
+    }
+  ],
+  "artist":[
+    {
+      "word":"예술가",
+      "description":"", "exmples":[]
+    }
+  ],
+  "owner":[
+    {
+      "word":"주인",
       "description":"", "exmples":[]
     }
   ]

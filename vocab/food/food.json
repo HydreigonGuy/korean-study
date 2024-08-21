@@ -206,5 +206,29 @@
       "word":"국",
       "description":"", "exmples":[]
     }
+  ],
+  "garlic":[
+    {
+      "word":"마늘",
+      "description":"", "exmples":[]
+    }
+  ],
+  "radish":[
+    {
+      "word":"무",
+      "description":"", "exmples":[]
+    }
+  ],
+  "black rice":[
+    {
+      "word":"흑미",
+      "description":"", "exmples":[]
+    }
+  ],
+  "beef":[
+    {
+      "word":"쇠고기",
+      "description":"", "exmples":[]
+    }
   ]
 }

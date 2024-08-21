@@ -64,5 +64,11 @@
       "word":"잠옷",
       "description":"", "exmples":[]
     }
+  ],
+  "glasses":[
+    {
+      "word":"안경",
+      "description":"", "exmples":[]
+    }
   ]
 }

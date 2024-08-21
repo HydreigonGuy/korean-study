@@ -1,0 +1,20 @@
+{
+    "by the way / but":[
+      {
+        "word":"그런데",
+        "description":"", "exmples":[]
+      }
+    ],
+    "and":[
+      {
+        "word":"그리고",
+        "description":"", "exmples":[]
+      }
+    ],
+    "but / however":[
+      {
+        "word":"하지만",
+        "description":"", "exmples":[]
+      }
+    ]
+}

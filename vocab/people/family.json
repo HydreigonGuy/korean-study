@@ -58,5 +58,23 @@
       "word":"아기",
       "description":"", "exmples":[]
     }
+  ],
+  "siblings":[
+    {
+      "word":"형제자매",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sisters":[
+    {
+      "word":"자매",
+      "description":"", "exmples":[]
+    }
+  ],
+  "brothers":[
+    {
+      "word":"형제",
+      "description":"", "exmples":[]
+    }
   ]
 }

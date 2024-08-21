@@ -304,5 +304,29 @@
       "word":"참새",
       "description":"", "exmples":[]
     }
+  ],
+  "foal":[
+    {
+      "word":"망아지",
+      "description":"", "exmples":[]
+    }
+  ],
+  "calf":[
+    {
+      "word":"송아지",
+      "description":"", "exmples":[]
+    }
+  ],
+  "chick":[
+    {
+      "word":"병아리",
+      "description":"", "exmples":[]
+    }
+  ],
+  "turkey":[
+    {
+      "word":"칠면조",
+      "description":"", "exmples":[]
+    }
   ]
 }

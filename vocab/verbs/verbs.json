@@ -836,5 +836,77 @@
       "word":"자르다",
       "description":"", "exmples":[]
     }
+  ],
+  "to put out a fire":[
+    {
+      "word":"불을 끄다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be stolen":[
+    {
+      "word":"도난 당하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to run away":[
+    {
+      "word":"도망치다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to let know":[
+    {
+      "word":"알려주다",
+      "description":"let me know ~ for example", "exmples":[]
+    }
+  ],
+  "to report (to)":[
+    {
+      "word":"신고하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to occur":[
+    {
+      "word":"발생하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to perform CPR":[
+    {
+      "word":"심폐소생술을 실시하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to breathe":[
+    {
+      "word":"숨을 쉬다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to treat (a wound)":[
+    {
+      "word":"치료하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to move":[
+    {
+      "word":"이사 가다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to reserve":[
+    {
+      "word":"예약하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to design":[
+    {
+      "word":"살계하다",
+      "description":"", "exmples":[]
+    }
   ]
 }

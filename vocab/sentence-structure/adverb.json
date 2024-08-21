@@ -90,5 +90,111 @@
       "word":"개인적으로",
       "description":"", "exmples":[]
     }
+  ],
+  "charming / attractive":[
+    {
+      "word":"매력",
+      "description":"", "exmples":[]
+    }
+  ],
+  "popular":[
+    {
+      "word":"인기",
+      "description":"", "exmples":[]
+    }
+  ],
+  "only _":[
+    {
+      "word":"만",
+      "description":"", "exmples":[]
+    }
+  ],
+  "other / different":[
+    {
+      "word":"다른",
+      "description":"", "exmples":[]
+    }
+  ],
+  "again":[
+    {
+      "word":"또",
+      "description":"", "exmples":[]
+    }
+  ],
+  "can't":[
+    {
+      "word":"못",
+      "description":"", "exmples":[]
+    }
+  ],
+  "negative / pessimistic":[
+    {
+      "word":"부정적",
+      "description":"", "exmples":[]
+    }
+  ],
+  "personal":[
+    {
+      "word":"개인적",
+      "description":"", "exmples":[]
+    }
+  ],
+  "positive":[
+    {
+      "word":"금정적",
+      "description":"", "exmples":[]
+    }
+  ],
+  "enthusiastic / active":[
+    {
+      "word":"적극적",
+      "description":"", "exmples":[]
+    }
+  ],
+  "historical":[
+    {
+      "word":"역사적",
+      "description":"", "exmples":[]
+    }
+  ],
+  "basic":[
+    {
+      "word":"기본적",
+      "description":"", "exmples":[]
+    }
+  ],
+  "fundamental":[
+    {
+      "word":"근본적",
+      "description":"", "exmples":[]
+    }
+  ],
+  "specific":[
+    {
+      "word":"구체적",
+      "description":"", "exmples":[]
+    }
+  ],
+  "traditional / conventional":[
+    {
+      "word":"전통적",
+      "description":"", "exmples":[]
+    }
+  ],
+  "loud":[
+    {
+      "word":"시끄러운",
+      "description":"", "exmples":[]
+    }
+  ],
+  "urgent":[
+    {
+      "word":"긴급",
+      "description":"", "exmples":[]
+    },
+    {
+      "word":"긴급한",
+      "description":"", "exmples":[]
+    }
   ]
 }

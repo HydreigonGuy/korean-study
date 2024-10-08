@@ -1,11 +1,19 @@
 
 var word;
 
-function get_word() {
-    fetch("/get-word")
+function get_word(prev={}) {
+    var url = "/get-word"
+
+    if (!(Object.keys(prev).length === 0)) {
+        url = url + "?word=" + prev.word
+        if (prev.success)
+            url = url + "&res=true"
+        else
+            url = url + "&res=false"
+    }
+    fetch(url)
     .then(response => response.json())
     .then(function (body) {
-        console.log(body);
         word = body;
         document.getElementById("word").innerHTML = word.word;
     })
@@ -29,7 +37,7 @@ function check() {
     word_info = word_info + " - " + word.word + ": " + kr_list.join(', ') + "<br/>";
     document.getElementById("previous-words").innerHTML = word_info + document.getElementById("previous-words").innerHTML;
     document.getElementById("input").value = "";
-    get_word();
+    get_word({"word": word.word, "success": correct});
 }
 
 window.onload = function(e){

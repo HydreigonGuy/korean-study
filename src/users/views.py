@@ -1,8 +1,6 @@
 from django.shortcuts import render, redirect
 from django.contrib.auth import authenticate, login, logout
 from django.contrib import messages
-#from django.http import HttpResponse
-#from django.template import loader
 
 def user_login(request):
     if request.method == 'POST':
@@ -18,5 +16,7 @@ def user_login(request):
 
     else:
         return render(request, 'login.html', {})
-#  template = loader.get_template('login.html')
-#  return HttpResponse(template.render())
+
+def user_logout(request):
+    logout(request)
+    return redirect("/user/user_login")

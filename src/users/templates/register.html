@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<body>
+    Register
+    <form action="" method=POST>
+        {% csrf_token %}
+        {% for field in form %}
+            {{field.label}}
+            {{field}}
+            <br/>
+        {% endfor %}
+        {% if messages %}
+            {% for message in messages %}
+                {{ message }}
+            {% endfor %}
+        {% endif %}
+        <input type="submit" value="Register">
+    </form>
+</body>

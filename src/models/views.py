@@ -6,8 +6,12 @@ import random
 from models.models import EnglishWord, KoreanWord
 
 def index(request):
-  template = loader.get_template('index.html')
-  return HttpResponse(template.render())
+  if request.user.is_authenticated:
+    template = loader.get_template('index.html')
+    return HttpResponse(template.render())
+  else:
+    template = loader.get_template('index.html')
+    return HttpResponse(template.render())
 
 def get_word(request):
   items = list(EnglishWord.objects.all())

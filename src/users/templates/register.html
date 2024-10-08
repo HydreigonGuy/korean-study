@@ -8,11 +8,7 @@
             {{field}}
             <br/>
         {% endfor %}
-        {% if messages %}
-            {% for message in messages %}
-                {{ message }}
-            {% endfor %}
-        {% endif %}
+        {{form.errors}}
         <input type="submit" value="Register">
     </form>
 </body>

@@ -31,18 +31,12 @@ def user_register(request):
 
     if request.method == 'POST':
         form = RegistrationForm(request.POST)
-        try:
-            if form.is_valid():
-                user = form.save()
-                login(request,user)
-                return redirect('/')
-            else:
-                messages.success(request, ("Registration failed."))
-                redirect('/user/user_register')
-        except:
-            messages.success(request, ("Reg failed."))
-            redirect('/user/user_register')
-
+        if form.is_valid():
+            form.save()
+            return redirect('/user/user_login')
+        else:
+            return render(request, 'register.html', {'form':form})
+    
     else:
         form = RegistrationForm()
         return render(request, 'register.html', {'form':form})

@@ -1,6 +1,16 @@
 <!DOCTYPE html>
+<head>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/auth.css' %}">
+    <title>Korean Study</title>
+</head>
 <body>
-    Login
+    <h2 class="title">Login</h2>
+    {% if messages %}
+        {% for message in messages %}
+            {{ message }}
+        {% endfor %}
+    {% endif %}
     <form action="" method=POST>
         {% csrf_token %}
         <div>
@@ -11,11 +21,8 @@
             <p>Password</p>
             <input type="password" name="password" />
         </div>
-        {% if messages %}
-            {% for message in messages %}
-                {{ message }}
-            {% endfor %}
-        {% endif %}
-        <input type="submit" value="Sign in">
+        <input class="submit-btn" type="submit" value="Sign in">
     </form>
+    <p>Don't have an account?</p>
+    <a class="redirect" href="/user/user_register">Click here to create an account</a>
 </body>

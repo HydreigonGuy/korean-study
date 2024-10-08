@@ -22,3 +22,11 @@ body {
 .wrong {
     color: red;
 }
+
+.top-bar a {
+    color: white;
+}
+
+.logout-button {
+    color: lightgray;
+}

@@ -1,0 +1,18 @@
+
+body {
+    text-align: center;
+}
+
+.submit-btn {
+    margin: 10px;
+    background-color: #3333ff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.redirect {
+    color: #3333ff;
+    text-decoration: none;
+}

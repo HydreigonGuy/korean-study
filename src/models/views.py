@@ -10,7 +10,7 @@ def index(request):
     template = loader.get_template('index.html')
     return HttpResponse(template.render())
   else:
-    template = loader.get_template('index.html')
+    template = loader.get_template('visitor.html')
     return HttpResponse(template.render())
 
 def get_word(request):

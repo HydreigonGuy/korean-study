@@ -1,14 +1,21 @@
 <!DOCTYPE html>
+<head>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/auth.css' %}">
+    <title>Korean Study</title>
+</head>
 <body>
-    Register
+    <h2 class="title">Register</h2>
     <form action="" method=POST>
         {% csrf_token %}
         {% for field in form %}
-            {{field.label}}
+            <p>{{field.label}}</p>
             {{field}}
             <br/>
         {% endfor %}
         {{form.errors}}
-        <input type="submit" value="Register">
+        <input class="submit-btn" type="submit" value="Register">
     </form>
+    <p>Already have an account?</p>
+    <a class="redirect" href="/user/user_login">Login</a>
 </body>

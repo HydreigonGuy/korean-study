@@ -1,5 +1,6 @@
 from django.db import models
 from django.contrib.postgres.fields import ArrayField
+from django.contrib.auth.models import User
 
 
 class KoreanWord(models.Model):
@@ -17,3 +18,18 @@ class EnglishWord(models.Model):
 
     def __str__(self):
         return self.word
+
+class Profile(models.Model):
+    user = models.OneToOneField(User, null=True, on_delete=models.CASCADE)
+
+class History(models.Model):
+    word = models.ForeignKey(EnglishWord, on_delete=models.CASCADE)
+    success = models.BooleanField()
+    Profil = models.ForeignKey(Profile, on_delete=models.CASCADE)
+    datetime = models.DateTimeField(auto_now_add=True)
+
+class Accuracy(models.Model):
+    word = models.ForeignKey(EnglishWord, on_delete=models.CASCADE)
+    profile = models.ForeignKey(Profile, on_delete=models.CASCADE)
+    correct_guesses = models.IntegerField(default=0)
+    total_guesses = models.IntegerField(default=0)

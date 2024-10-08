@@ -3,6 +3,8 @@ from django.contrib.auth import authenticate, login, logout
 from django.contrib import messages
 from .forms import RegistrationForm
 
+from models.models import Profile
+
 def user_login(request):
     if request.user.is_authenticated:
             return redirect("/")
@@ -32,7 +34,9 @@ def user_register(request):
     if request.method == 'POST':
         form = RegistrationForm(request.POST)
         if form.is_valid():
-            form.save()
+            user = form.save()
+            newProfile = Profile(user=user)
+            newProfile.save()
             messages.success(request, ("Account created."))
             return redirect('/user/user_login')
         else:

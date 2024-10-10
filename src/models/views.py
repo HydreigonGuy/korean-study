@@ -54,6 +54,11 @@ def get_word(request):
     items = list(EnglishWord.objects.all())
     random_eng = random.choice(items)
 
+    # Remove words from recent history
+    history =  History.objects.filter(Profil=profile)
+    for i in range(len(history)):
+      items.remove(history[i].word)
+
     korean_words = []
     for k in random_eng.korean.all():
       korean_words.append({"word":k.word})

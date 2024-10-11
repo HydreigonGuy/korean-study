@@ -2,25 +2,25 @@
   "student":[
     {
       "word":"학생",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "reporter":[
     {
       "word":"기자",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "cook":[
     {
       "word":"요리사",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "driver":[
     {
       "word":"기사",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     },
     {
       "word":"운전자",
@@ -30,167 +30,167 @@
   "soldier":[
     {
       "word":"군인",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "architect":[
     {
       "word":"건축가",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "farmer":[
     {
       "word":"농민",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "baker":[
     {
       "word":"제빵사",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "dancer":[
     {
       "word":"댄서",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "musician":[
     {
       "word":"뮤지션",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "model":[
     {
       "word":"모델",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "author":[
     {
       "word":"작가",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "nurse":[
     {
       "word":"간호사",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "pharmacist":[
     {
       "word":"약사",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "dentist":[
     {
       "word":"치과",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "researcher":[
     {
       "word":"연구원",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "magician":[
     {
       "word":"마술사",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "interviewer":[
     {
       "word":"면접관",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 8
     }
   ],
   "investigator":[
     {
       "word":"조사관",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 8
     }
   ],
   "detective":[
     {
       "word":"형사",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 8
     }
   ],
   "employer":[
     {
       "word":"고용주",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 8
     }
   ],
   "worker":[
     {
       "word":"노동자",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 8
     },
     {
       "word":"근로자",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 8
     }
   ],
   "employee":[
     {
       "word":"종업원",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 8
     }
   ],
   "unemployed":[
     {
       "word":"실업자",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "artist":[
     {
       "word":"예술가",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "owner":[
     {
       "word":"주인",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "mayor":[
     {
       "word":"시장",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "fire fighter":[
     {
       "word":"소방관",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "police officer":[
     {
       "word":"경찰관",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "lifeguard":[
     {
       "word":"구조원",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 7
     }
   ],
   "lawyer":[
     {
       "word":"변호사",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ]
 }

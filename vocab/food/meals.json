@@ -2,31 +2,31 @@
   "meal":[
     {
       "word":"식사",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "breakfast":[
     {
       "word":"아침",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "lunch":[
     {
       "word":"점심",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "dinner":[
     {
       "word":"저녁",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "dessert":[
     {
       "word":"후식",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ]
 }

@@ -2,239 +2,239 @@
   "class":[
     {
       "word":"수업",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "grades":[
     {
       "word":"성적",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "book":[
     {
       "word":"책",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "desk":[
     {
       "word":"책상",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "chair":[
     {
       "word":"의자",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "computer":[
     {
       "word":"컴퓨터",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "notebook":[
     {
       "word":"공책",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "pen":[
     {
       "word":"볼펜",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "pencil":[
     {
       "word":"연필",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "eraser":[
     {
       "word":"지우개",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "dictionary":[
     {
       "word":"사전",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "ruler":[
     {
       "word":"자",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "pencil case":[
     {
       "word":"필통",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "textbook":[
     {
       "word":"교과서",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "folder":[
     {
       "word":"폴더",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "kindergarden":[
     {
       "word":"유치원",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 9
     }
   ],
   "elementary school":[
     {
       "word":"초등학교",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 9
     }
   ],
   "elementary schooler":[
     {
       "word":"초등학생",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 9
     }
   ],
   "middle school":[
     {
       "word":"중학교",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 9
     }
   ],
   "middle schooler":[
     {
       "word":"중학생",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 9
     }
   ],
   "highschool":[
     {
       "word":"고등학교",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 9
     }
   ],
   "high schooler":[
     {
       "word":"고등학생",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 9
     }
   ],
   "school year":[
     {
       "word":"학년",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "school principal":[
     {
       "word":"교장",
-      "description":"교장 or 교장 선생님", "exmples":[], "level": 10
+      "description":"교장 or 교장 선생님", "exmples":[], "level": 4
     }
   ],
   "homeroom teacher":[
     {
       "word":"담임",
-      "description":"담임 or 담임 선생님", "exmples":[], "level": 10
+      "description":"담임 or 담임 선생님", "exmples":[], "level": 5
     }
   ],
   "test / exam":[
     {
       "word":"시험",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "class roster":[
     {
       "word":"학급 명부",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 9
     }
   ],
   "points":[
     {
       "word":"점",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "0 points":[
     {
       "word":"빵점",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 7
     }
   ],
   "full points":[
     {
       "word":"만점",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 7
     }
   ],
   "score":[
     {
       "word":"점수",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "report card":[
     {
       "word":"성적표",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 8
     }
   ],
   "pass":[
     {
       "word":"통과",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     },
     {
       "word":"합격",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "fail":[
     {
       "word":"실패",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "school period":[
     {
       "word":"교시",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "chalk":[
     {
       "word":"분필",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "blackboard":[
     {
       "word":"칠판",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "school trip":[
     {
       "word":"수학여행",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 8
     }
   ],
   "graduation ceremony":[
     {
       "word":"졸업식",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 9
     }
   ]
 }

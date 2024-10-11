@@ -2,129 +2,129 @@
   "left":[
     {
       "word":"왼쪽",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "right":[
     {
       "word":"오른쪽",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "far away":[
     {
       "word":"멀리",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "across":[
     {
       "word":"건나편",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "near":[
     {
       "word":"가까이",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     },
     {
       "word":"근처",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "in front of":[
     {
       "word":"앞",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "next to":[
     {
       "word":"옆",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "inside of":[
     {
       "word":"안",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "behind":[
     {
       "word":"뒤",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "under":[
     {
       "word":"아래",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     },
     {
       "word":"밑",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "directly":[
     {
       "word":"바로",
-      "description":"right _ / directly _ = 바로 _, right under, directly above, ...", "exmples":[], "level": 10
+      "description":"right _ / directly _ = 바로 _, right under, directly above, ...", "exmples":[], "level": 4
     }
   ],
   "within":[
     {
       "word":"속",
-      "description":"within / amongst", "exmples":[], "level": 10
+      "description":"within / amongst", "exmples":[], "level": 4
     }
   ],
   "in the center":[
     {
       "word":"가운데",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "between":[
     {
       "word":"사이",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "outside":[
     {
       "word":"밖",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "on top of":[
     {
       "word":"위",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "west":[
     {
       "word":"서",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "east":[
     {
       "word":"동",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "south":[
     {
       "word":"남",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "north":[
     {
       "word":"북",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ]
 }

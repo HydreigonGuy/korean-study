@@ -2,133 +2,133 @@
     "sunlight":[
       {
         "word":"햇빛",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 3
       }
     ],
     "snow":[
       {
         "word":"눈",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 1
       }
     ],
     "ice":[
       {
         "word":"얼음",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 2
       }
     ],
     "climate":[
       {
         "word":"기후",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 3
       }
     ],
     "thunder":[
       {
         "word":"천둥",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 6
       }
     ],
     "lightning":[
       {
         "word":"번개",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 6
       }
     ],
     "rain":[
       {
         "word":"비",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 1
       }
     ],
     "wind":[
       {
         "word":"바람",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 2
       }
     ],
     "rainbow":[
       {
         "word":"무지개",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 3
       }
     ],
     "weather":[
       {
         "word":"날씨",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 4
       }
     ],
     "typhoon":[
       {
         "word":"태풍",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 5
       }
     ],
     "sky":[
       {
         "word":"하늘",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 1
       }
     ],
     "light":[
       {
         "word":"빛",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 1
       }
     ],
     "storm":[
       {
         "word":"폭풍",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 5
       }
     ],
     "shade":[
       {
         "word":"그늘",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 4
       }
     ],
     "fog":[
       {
         "word":"안개",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 6
       }
     ],
     "cloud":[
       {
         "word":"구름",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 3
       }
     ],
     "umbrella":[
       {
         "word":"우산",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 2
       }
     ],
     "frost":[
       {
         "word":"서리",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 6
       }
     ],
     "cold wave":[
       {
         "word":"한파",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 8
       }
     ],
     "hail":[
       {
         "word":"우박",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 8
       }
     ],
     "blizzard":[
       {
         "word":"눈보라",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 7
       }
     ]
 }

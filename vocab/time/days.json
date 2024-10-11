@@ -2,73 +2,73 @@
   "yesterday":[
     {
       "word":"어제",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "today":[
     {
       "word":"오늘",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "tomorow":[
     {
       "word":"내일",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "the day before yesterday":[
     {
       "word":"그저께",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "monday":[
     {
       "word":"월요일",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "tuesday":[
     {
       "word":"화요일",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "wednesday":[
     {
       "word":"수요일",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "thursday":[
     {
       "word":"목요일",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "friday":[
     {
       "word":"금요일",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "saturday":[
     {
       "word":"토요일",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "sunday":[
     {
       "word":"일요일",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "weekday":[
     {
       "word":"평일",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ]
 }

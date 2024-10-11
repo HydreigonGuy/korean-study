@@ -2,233 +2,233 @@
   "salt":[
     {
       "word":"소금",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "chilly pepper":[
     {
       "word":"고추",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "honey":[
     {
       "word":"꿀",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "sugar":[
     {
       "word":"설탕",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "pepper":[
     {
       "word":"후추",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "egg":[
     {
       "word":"달걀",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "fish":[
     {
       "word":"생선",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "jam":[
     {
       "word":"잼",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "cheese":[
     {
       "word":"치즈",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "sandwitch":[
     {
       "word":"샌드위치",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "corn":[
     {
       "word":"옥수수",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "potato":[
     {
       "word":"감자",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "side dish":[
     {
       "word":"반찬",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "rice cake":[
     {
       "word":"떡",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "cake":[
     {
       "word":"케이크",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "pumpkin":[
     {
       "word":"호박",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "snack":[
     {
       "word":"과자",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "sea food":[
     {
       "word":"해산물",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "stew":[
     {
       "word":"찌개",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "sweet potato":[
     {
       "word":"고구마",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "bell pepper":[
     {
       "word":"피망",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "bean":[
     {
       "word":"콩",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "bean sprout":[
     {
       "word":"콩나물",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "fries":[
     {
       "word":"감자 튀김",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "waffle":[
     {
       "word":"와플",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "syrup":[
     {
       "word":"시럽",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "onion":[
     {
       "word":"양파",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "ham":[
     {
       "word":"햄",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "cabbage":[
     {
       "word":"배추",
-      "description":"Korean / Chinese cabbage", "exmples":[], "level": 10
+      "description":"Korean / Chinese cabbage", "exmples":[], "level": 2
     },
     {
       "word":"양배추",
-      "description":"Salad like we find in America or Europe", "exmples":[], "level": 10
+      "description":"Salad like we find in America or Europe", "exmples":[], "level": 2
     }
   ],
   "butter":[
     {
       "word":"버터",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "sauce":[
     {
       "word":"소스",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "soy sauce":[
     {
       "word":"간장",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "broth":[
     {
       "word":"국물",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "soup":[
     {
       "word":"국",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "garlic":[
     {
       "word":"마늘",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "radish":[
     {
       "word":"무",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "black rice":[
     {
       "word":"흑미",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "beef":[
     {
       "word":"쇠고기",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ]
 }

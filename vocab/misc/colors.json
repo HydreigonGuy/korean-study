@@ -2,65 +2,65 @@
   "black":[
     {
       "word":"검정",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "white":[
     {
       "word":"하양",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "blue":[
     {
       "word":"파랑",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "red":[
     {
       "word":"빨강",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "yellow":[
     {
       "word":"노랑",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "grey":[
     {
       "word":"회",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "green":[
     {
       "word":"초록",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     },
     {
       "word":"녹색",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "brown":[
     {
       "word":"갈",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "purple":[
     {
       "word":"보라",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "pink":[
     {
       "word":"분홍",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ]
 }

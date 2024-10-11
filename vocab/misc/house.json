@@ -2,245 +2,249 @@
   "garden":[
     {
       "word":"정원",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "yard":[
     {
       "word":"마당",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "garage":[
     {
       "word":"차고",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "roof":[
     {
       "word":"지붕",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "sofa":[
     {
       "word":"소파",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "floor":[
     {
       "word":"마루",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "furniture":[
     {
       "word":"가구",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "bookshelf":[
     {
       "word":"책꽂이",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "living room":[
     {
       "word":"거실",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "wall":[
     {
       "word":"벽",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "wardrobe":[
     {
       "word":"옷장",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "bedroom":[
     {
       "word":"침실",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "closet":[
     {
       "word":"벽장",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "pillow":[
     {
       "word":"베개",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "washing machine":[
     {
       "word":"세탁기",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 8
     }
   ],
   "bedsheet":[
     {
       "word":"침대보",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 7
     }
   ],
   "blanket":[
     {
       "word":"담요",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 7
     }
   ],
   "table cloth":[
     {
       "word":"식탁보",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 8
     }
   ],
   "kitchen":[
     {
       "word":"주방",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     },
     {
       "word":"부억",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "oven":[
     {
       "word":"오븐",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "refrigirator":[
     {
       "word":"냉장고",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "dishwasher":[
     {
       "word":"식기세척기",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 8
     }
   ],
   "gas stove":[
     {
       "word":"가스레인지",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "freezer":[
     {
       "word":"냉동고",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 8
     }
   ],
   "cabinet":[
     {
       "word":"찬장",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "fence":[
     {
       "word":"울타리",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "shed":[
     {
       "word":"창고",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "(kitchen) table":[
     {
       "word":"식탁",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "trash can":[
     {
       "word":"휴지통",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "vase":[
     {
       "word":"꽃병",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "patio":[
     {
       "word":"파티오",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "parasol":[
     {
       "word":"파라솔",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "veranda":[
     {
       "word":"베란다",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "rocking chair":[
     {
       "word":"흔들의자",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "toilet":[
     {
+      "word":"화장실",
+      "description":"", "exmples":[], "level": 1
+    },
+    {
       "word":"변기",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ],
   "bathroom":[
     {
       "word":"욕실",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "sink":[
     {
       "word":"신크대",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "towel":[
     {
       "word":"수건",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "bathtub":[
     {
       "word":"욕조",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 7
     }
   ],
   "underfloor heater":[
     {
       "word":"온돌",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 7
     }
   ]
 }

@@ -2,49 +2,49 @@
     "word":[
       {
         "word":"단어",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 1
       }
     ],
     "a verb":[
       {
         "word":"동사",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 2
       }
     ],
     "map":[
       {
         "word":"지도",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 1
       }
     ],
     "container":[
       {
         "word":"통",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 2
       }
     ],
     "artifact":[
       {
         "word":"인공물",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 8
       }
     ],
     "exhibit":[
       {
         "word":"전시",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 7
       }
     ],
     "watch / clock":[
       {
         "word":"시계",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 2
       }
     ],
     "thank you note":[
       {
         "word":"감사장",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 7
       }
     ]
 }

@@ -2,73 +2,73 @@
   "fork":[
     {
       "word":"포크",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "spoon":[
     {
       "word":"숟가락",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "knife":[
     {
       "word":"칼",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "cup":[
     {
       "word":"컵",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "chopsticks":[
     {
       "word":"젓가락",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "bowl":[
     {
       "word":"그릇",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "plate":[
     {
       "word":"접시",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "kettle":[
     {
       "word":"주전자",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "ladle":[
     {
       "word":"국자",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 7
     }
   ],
   "pot":[
     {
       "word":"냄비",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 7
     }
   ],
   "lid":[
     {
       "word":"뚜껑",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 8
     }
   ],
   "cutting board":[
     {
       "word":"도마",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 6
     }
   ]
 }

@@ -2,19 +2,19 @@
     "by the way / but":[
       {
         "word":"그런데",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 2
       }
     ],
     "and":[
       {
         "word":"그리고",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 2
       }
     ],
     "but / however":[
       {
         "word":"하지만",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 2
       }
     ]
 }

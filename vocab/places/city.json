@@ -2,67 +2,67 @@
     "city":[
       {
         "word":"도시",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 1
       }
     ],
     "neighborhood":[
       {
         "word":"동네",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 3
       }
     ],
     "capital (city)":[
       {
         "word":"수도",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 3
       }
     ],
     "down town":[
       {
         "word":"시내",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 3
       }
     ],
     "village":[
       {
         "word":"마을",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 2
       }
     ],
     "street":[
       {
         "word":"거리",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 1
       }
     ],
     "city hall":[
       {
         "word":"시청",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 1
       }
     ],
     "suburbs":[
       {
         "word":"교외",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 4
       }
     ],
     "bridge":[
       {
         "word":"다리",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 2
       }
     ],
     "parking lot":[
       {
         "word":"주차장",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 6
       }
     ],
     "tunnel":[
       {
         "word":"터널",
-        "description":"", "exmples":[], "level": 10
+        "description":"", "exmples":[], "level": 3
       }
     ]
 }

@@ -2,189 +2,187 @@
   "early":[
     {
       "word":"일찍",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "just (just now)":[
     {
       "word":"방금",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
+    },
+    {
+      "word":"아까",
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "last night":[
     {
       "word":"어젯밤",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "weekend":[
     {
       "word":"주말",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "yet / still":[
     {
       "word":"아직",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "last week":[
     {
       "word":"지난주",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "week":[
     {
       "word":"주",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "night":[
     {
       "word":"밤",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "dawn":[
     {
       "word":"새벽",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "afternoon":[
     {
       "word":"오후",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "morning":[
     {
       "word":"오전",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "noon":[
     {
       "word":"정오",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "midnight":[
     {
       "word":"자정",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "a second":[
     {
       "word":"초",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "a minute":[
     {
       "word":"분",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "an hour":[
     {
       "word":"시간",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "now":[
     {
       "word":"지금",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     },
     {
       "word":"이제",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "recently":[
     {
       "word":"요즘",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     },
     {
       "word":"최근",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 2
     }
   ],
   "all day":[
     {
       "word":"하루 종일",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "month":[
     {
       "word":"월",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "a few days":[
     {
       "word":"며칠",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "year":[
     {
       "word":"년",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "day":[
     {
       "word":"날",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "next year":[
     {
       "word":"내년",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "last month":[
     {
       "word":"지난달",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "this year":[
     {
       "word":"올해",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "last year":[
     {
       "word":"작년",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ],
   "day after day":[
     {
       "word":"하루하루",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 5
     }
   ],
   "one day":[
     {
       "word":"하루",
-      "description":"", "exmples":[], "level": 10
-    }
-  ],
-  "just now":[
-    {
-      "word":"아까",
-      "description":"", "exmples":[], "level": 10
+      "description":"", "exmples":[], "level": 4
     }
   ]
 }

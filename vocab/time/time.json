@@ -99,6 +99,10 @@
     {
       "word":"지금",
       "description":"", "exmples":[]
+    },
+    {
+      "word":"이제",
+      "description":"", "exmples":[]
     }
   ],
   "recently":[
@@ -174,6 +178,12 @@
   "one day":[
     {
       "word":"하루",
+      "description":"", "exmples":[]
+    }
+  ],
+  "just now":[
+    {
+      "word":"아까",
       "description":"", "exmples":[]
     }
   ]

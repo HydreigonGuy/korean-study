@@ -908,5 +908,35 @@
       "word":"살계하다",
       "description":"", "exmples":[]
     }
+  ],
+  "to like":[
+    {
+      "word":"마음에 들다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to remember":[
+    {
+      "word":"기억하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to wash":[
+    {
+      "word":"씻다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to get":[
+    {
+      "word":"얻다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to save":[
+    {
+      "word":"구조하다",
+      "description":"", "exmples":[]
+    }
   ]
 }

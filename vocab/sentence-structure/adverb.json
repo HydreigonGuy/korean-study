@@ -196,5 +196,53 @@
       "word":"긴급한",
       "description":"", "exmples":[]
     }
+  ],
+  "the same":[
+    {
+      "word":"같은",
+      "description":"", "exmples":[]
+    }
+  ],
+  "stupid":[
+    {
+      "word":"멍청한",
+      "description":"", "exmples":[]
+    }
+  ],
+  "wet":[
+    {
+      "word":"젖은",
+      "description":"", "exmples":[]
+    }
+  ],
+  "cloudy":[
+    {
+      "word":"흐린",
+      "description":"", "exmples":[]
+    }
+  ],
+  "sunny / clear":[
+    {
+      "word":"맑은",
+      "description":"", "exmples":[]
+    }
+  ],
+  "light / small":[
+    {
+      "word":"가벼운",
+      "description":"", "exmples":[]
+    }
+  ],
+  "famous":[
+    {
+      "word":"유명한",
+      "description":"", "exmples":[]
+    }
+  ],
+  "last":[
+    {
+      "word":"마지막",
+      "description":"", "exmples":[]
+    }
   ]
 }

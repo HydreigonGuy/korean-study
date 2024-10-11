@@ -64,5 +64,11 @@
       "word":"일요일",
       "description":"", "exmples":[]
     }
+  ],
+  "weekday":[
+    {
+      "word":"평일",
+      "description":"", "exmples":[]
+    }
   ]
 }

@@ -162,5 +162,35 @@
       "word":"주인",
       "description":"", "exmples":[]
     }
+  ],
+  "mayor":[
+    {
+      "word":"시장",
+      "description":"", "exmples":[]
+    }
+  ],
+  "fire fighter":[
+    {
+      "word":"소방관",
+      "description":"", "exmples":[]
+    }
+  ],
+  "police officer":[
+    {
+      "word":"경찰관",
+      "description":"", "exmples":[]
+    }
+  ],
+  "lifeguard":[
+    {
+      "word":"구조원",
+      "description":"", "exmples":[]
+    }
+  ],
+  "lawyer":[
+    {
+      "word":"변호사",
+      "description":"", "exmples":[]
+    }
   ]
 }

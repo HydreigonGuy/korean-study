@@ -1,0 +1,68 @@
+{
+    "city":[
+      {
+        "word":"도시",
+        "description":"", "exmples":[]
+      }
+    ],
+    "neighborhood":[
+      {
+        "word":"동네",
+        "description":"", "exmples":[]
+      }
+    ],
+    "capital (city)":[
+      {
+        "word":"수도",
+        "description":"", "exmples":[]
+      }
+    ],
+    "down town":[
+      {
+        "word":"시내",
+        "description":"", "exmples":[]
+      }
+    ],
+    "village":[
+      {
+        "word":"마을",
+        "description":"", "exmples":[]
+      }
+    ],
+    "street":[
+      {
+        "word":"거리",
+        "description":"", "exmples":[]
+      }
+    ],
+    "city hall":[
+      {
+        "word":"시청",
+        "description":"", "exmples":[]
+      }
+    ],
+    "suburbs":[
+      {
+        "word":"교외",
+        "description":"", "exmples":[]
+      }
+    ],
+    "bridge":[
+      {
+        "word":"다리",
+        "description":"", "exmples":[]
+      }
+    ],
+    "parking lot":[
+      {
+        "word":"주차장",
+        "description":"", "exmples":[]
+      }
+    ],
+    "tunnel":[
+      {
+        "word":"터널",
+        "description":"", "exmples":[]
+      }
+    ]
+}

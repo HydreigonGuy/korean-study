@@ -202,5 +202,41 @@
       "word":"유명하다",
       "description":"", "exmples":[]
     }
+  ],
+  "to be crowded":[
+    {
+      "word":"복잡하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be close":[
+    {
+      "word":"가깝하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be far":[
+    {
+      "word":"멀다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be chaotic":[
+    {
+      "word":"혼잡하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be weak":[
+    {
+      "word":"약하다",
+      "description":"", "exmples":[]
+    }
+  ],
+  "to be strong":[
+    {
+      "word":"강하다",
+      "description":"", "exmples":[]
+    }
   ]
 }

@@ -1,0 +1,50 @@
+{
+    "word":[
+      {
+        "word":"단어",
+        "description":"", "exmples":[]
+      }
+    ],
+    "a verb":[
+      {
+        "word":"동사",
+        "description":"", "exmples":[]
+      }
+    ],
+    "map":[
+      {
+        "word":"지도",
+        "description":"", "exmples":[]
+      }
+    ],
+    "container":[
+      {
+        "word":"통",
+        "description":"", "exmples":[]
+      }
+    ],
+    "artifact":[
+      {
+        "word":"인공물",
+        "description":"", "exmples":[]
+      }
+    ],
+    "exhibit":[
+      {
+        "word":"전시",
+        "description":"", "exmples":[]
+      }
+    ],
+    "watch / clock":[
+      {
+        "word":"시계",
+        "description":"", "exmples":[]
+      }
+    ],
+    "thank you note":[
+      {
+        "word":"감사장",
+        "description":"", "exmples":[]
+      }
+    ]
+}

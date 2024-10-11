@@ -1,0 +1,110 @@
+{
+    "wallet":[
+      {
+        "word":"지갑",
+        "description":"", "exmples":[]
+      }
+    ],
+    "cash":[
+      {
+        "word":"현금",
+        "description":"", "exmples":[]
+      }
+    ],
+    "shopping basket":[
+      {
+        "word":"장바구니",
+        "description":"", "exmples":[]
+      }
+    ],
+    "supermarket":[
+      {
+        "word":"슈퍼마켓",
+        "description":"", "exmples":[]
+      }
+    ],
+    "price":[
+      {
+        "word":"가격",
+        "description":"", "exmples":[]
+      }
+    ],
+    "shop / store":[
+      {
+        "word":"가게",
+        "description":"", "exmples":[]
+      }
+    ],
+    "shopping kart":[
+      {
+        "word":"카트",
+        "description":"", "exmples":[]
+      }
+    ],
+    "product":[
+      {
+        "word":"물건",
+        "description":"", "exmples":[]
+      }
+    ],
+    "quality":[
+      {
+        "word":"질",
+        "description":"", "exmples":[]
+      }
+    ],
+    "quantity":[
+      {
+        "word":"양",
+        "description":"", "exmples":[]
+      }
+    ],
+    "discount":[
+      {
+        "word":"할인",
+        "description":"", "exmples":[]
+      }
+    ],
+    "value":[
+      {
+        "word":"가치",
+        "description":"", "exmples":[]
+      }
+    ],
+    "checkout":[
+      {
+        "word":"계산대",
+        "description":"", "exmples":[]
+      }
+    ],
+    "euro":[
+      {
+        "word":"유로",
+        "description":"", "exmples":[]
+      }
+    ],
+    "bill":[
+      {
+        "word":"계산서",
+        "description":"", "exmples":[]
+      }
+    ],
+    "credit card":[
+      {
+        "word":"신용카드",
+        "description":"", "exmples":[]
+      }
+    ],
+    "reciept":[
+      {
+        "word":"영수증",
+        "description":"", "exmples":[]
+      }
+    ],
+    "exchange":[
+      {
+        "word":"교환",
+        "description":"", "exmples":[]
+      }
+    ]
+}

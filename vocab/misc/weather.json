@@ -1,0 +1,134 @@
+{
+    "sunlight":[
+      {
+        "word":"햇빛",
+        "description":"", "exmples":[]
+      }
+    ],
+    "snow":[
+      {
+        "word":"눈",
+        "description":"", "exmples":[]
+      }
+    ],
+    "ice":[
+      {
+        "word":"얼음",
+        "description":"", "exmples":[]
+      }
+    ],
+    "climate":[
+      {
+        "word":"기후",
+        "description":"", "exmples":[]
+      }
+    ],
+    "thunder":[
+      {
+        "word":"천둥",
+        "description":"", "exmples":[]
+      }
+    ],
+    "lightning":[
+      {
+        "word":"번개",
+        "description":"", "exmples":[]
+      }
+    ],
+    "rain":[
+      {
+        "word":"비",
+        "description":"", "exmples":[]
+      }
+    ],
+    "wind":[
+      {
+        "word":"바람",
+        "description":"", "exmples":[]
+      }
+    ],
+    "rainbow":[
+      {
+        "word":"무지개",
+        "description":"", "exmples":[]
+      }
+    ],
+    "weather":[
+      {
+        "word":"날씨",
+        "description":"", "exmples":[]
+      }
+    ],
+    "typhoon":[
+      {
+        "word":"태풍",
+        "description":"", "exmples":[]
+      }
+    ],
+    "sky":[
+      {
+        "word":"하늘",
+        "description":"", "exmples":[]
+      }
+    ],
+    "light":[
+      {
+        "word":"빛",
+        "description":"", "exmples":[]
+      }
+    ],
+    "storm":[
+      {
+        "word":"폭풍",
+        "description":"", "exmples":[]
+      }
+    ],
+    "shade":[
+      {
+        "word":"그늘",
+        "description":"", "exmples":[]
+      }
+    ],
+    "fog":[
+      {
+        "word":"안개",
+        "description":"", "exmples":[]
+      }
+    ],
+    "cloud":[
+      {
+        "word":"구름",
+        "description":"", "exmples":[]
+      }
+    ],
+    "umbrella":[
+      {
+        "word":"우산",
+        "description":"", "exmples":[]
+      }
+    ],
+    "frost":[
+      {
+        "word":"서리",
+        "description":"", "exmples":[]
+      }
+    ],
+    "cold wave":[
+      {
+        "word":"한파",
+        "description":"", "exmples":[]
+      }
+    ],
+    "hail":[
+      {
+        "word":"우박",
+        "description":"", "exmples":[]
+      }
+    ],
+    "blizzard":[
+      {
+        "word":"눈보라",
+        "description":"", "exmples":[]
+      }
+    ]
+}

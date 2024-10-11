@@ -102,5 +102,29 @@
       "word":"위",
       "description":"", "exmples":[]
     }
+  ],
+  "west":[
+    {
+      "word":"서",
+      "description":"", "exmples":[]
+    }
+  ],
+  "east":[
+    {
+      "word":"동",
+      "description":"", "exmples":[]
+    }
+  ],
+  "south":[
+    {
+      "word":"남",
+      "description":"", "exmples":[]
+    }
+  ],
+  "north":[
+    {
+      "word":"북",
+      "description":"", "exmples":[]
+    }
   ]
 }

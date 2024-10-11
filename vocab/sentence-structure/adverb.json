@@ -2,247 +2,247 @@
   "particularly":[
     {
       "word":"특히",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "really / very":[
     {
       "word":"참",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     },
     {
       "word":"아주",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     },
     {
       "word":"정말",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "too":[
     {
       "word":"너무",
-      "description":"too (much)", "exmples":[]
+      "description":"too (much)", "exmples":[], "level": 10
     }
   ],
   "quite":[
     {
       "word":"꽤",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "nearly / almost":[
     {
       "word":"거의",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "not really":[
     {
       "word":"별로",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "not at all":[
     {
       "word":"전혀",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "the most":[
     {
       "word":"제일",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "slowly":[
     {
       "word":"천천히",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "more":[
     {
       "word":"더",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "less":[
     {
       "word":"덜",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "a little":[
     {
       "word":"조금",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "a lot":[
     {
       "word":"많",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "personally":[
     {
       "word":"개인적으로",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "charming / attractive":[
     {
       "word":"매력",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "popular":[
     {
       "word":"인기",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "only _":[
     {
       "word":"만",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "other / different":[
     {
       "word":"다른",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "again":[
     {
       "word":"또",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "can't":[
     {
       "word":"못",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "negative / pessimistic":[
     {
       "word":"부정적",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "personal":[
     {
       "word":"개인적",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "positive":[
     {
       "word":"금정적",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "enthusiastic / active":[
     {
       "word":"적극적",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "historical":[
     {
       "word":"역사적",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "basic":[
     {
       "word":"기본적",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "fundamental":[
     {
       "word":"근본적",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "specific":[
     {
       "word":"구체적",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "traditional / conventional":[
     {
       "word":"전통적",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "loud":[
     {
       "word":"시끄러운",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "urgent":[
     {
       "word":"긴급",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     },
     {
       "word":"긴급한",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "the same":[
     {
       "word":"같은",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "stupid":[
     {
       "word":"멍청한",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "wet":[
     {
       "word":"젖은",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "cloudy":[
     {
       "word":"흐린",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "sunny / clear":[
     {
       "word":"맑은",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "light / small":[
     {
       "word":"가벼운",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "famous":[
     {
       "word":"유명한",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "last":[
     {
       "word":"마지막",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ]
 }

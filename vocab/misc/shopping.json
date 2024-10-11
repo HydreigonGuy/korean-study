@@ -2,109 +2,109 @@
     "wallet":[
       {
         "word":"지갑",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "cash":[
       {
         "word":"현금",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "shopping basket":[
       {
         "word":"장바구니",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "supermarket":[
       {
         "word":"슈퍼마켓",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "price":[
       {
         "word":"가격",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "shop / store":[
       {
         "word":"가게",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "shopping kart":[
       {
         "word":"카트",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "product":[
       {
         "word":"물건",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "quality":[
       {
         "word":"질",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "quantity":[
       {
         "word":"양",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "discount":[
       {
         "word":"할인",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "value":[
       {
         "word":"가치",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "checkout":[
       {
         "word":"계산대",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "euro":[
       {
         "word":"유로",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "bill":[
       {
         "word":"계산서",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "credit card":[
       {
         "word":"신용카드",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "reciept":[
       {
         "word":"영수증",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "exchange":[
       {
         "word":"교환",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ]
 }

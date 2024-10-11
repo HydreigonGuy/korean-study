@@ -2,241 +2,241 @@
   "to be easy":[
     {
       "word":"쉽다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be difficult":[
     {
       "word":"어렵다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be bad":[
     {
       "word":"나쁘다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be cold":[
     {
       "word":"춥다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be hot":[
     {
       "word":"덥다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be heavy":[
     {
       "word":"무겁다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be busy":[
     {
       "word":"바쁘다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be beautiful":[
     {
       "word":"아름답다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be cute":[
     {
       "word":"귀엽다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be sick / hurt / in pain":[
     {
       "word":"아프다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be dirty":[
     {
       "word":"더럽다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be perfect":[
     {
       "word":"완벽하다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be spicy":[
     {
       "word":"맵다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be big":[
     {
       "word":"크다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be careful":[
     {
       "word":"조심하다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be short":[
     {
       "word":"짧다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be long":[
     {
       "word":"길다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be fast":[
     {
       "word":"빠르다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be surprised":[
     {
       "word":"놀랍다",
-      "description":"(깜짝) 놀랍다", "exmples":[]
+      "description":"(깜짝) 놀랍다", "exmples":[], "level": 10
     }
   ],
   "to be sad":[
     {
       "word":"슬프다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be healthy":[
     {
       "word":"건강하다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be boring":[
     {
       "word":"지루하다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be bored":[
     {
       "word":"심심하다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be tired":[
     {
       "word":"피곤하다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be good":[
     {
       "word":"좋다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be dry":[
     {
       "word":"마르다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be low":[
     {
       "word":"낮다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be narrow / small":[
     {
       "word":"좁다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be expensive":[
     {
       "word":"비싸다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be cheap":[
     {
       "word":"싸다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be bright":[
     {
       "word":"밝다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be cloudy":[
     {
       "word":"흐리다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be humid":[
     {
       "word":"습하다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be famous":[
     {
       "word":"유명하다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be crowded":[
     {
       "word":"복잡하다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be close":[
     {
       "word":"가깝하다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be far":[
     {
       "word":"멀다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be chaotic":[
     {
       "word":"혼잡하다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be weak":[
     {
       "word":"약하다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "to be strong":[
     {
       "word":"강하다",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ]
 }

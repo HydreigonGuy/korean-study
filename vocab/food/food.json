@@ -2,233 +2,233 @@
   "salt":[
     {
       "word":"소금",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "chilly pepper":[
     {
       "word":"고추",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "honey":[
     {
       "word":"꿀",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "sugar":[
     {
       "word":"설탕",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "pepper":[
     {
       "word":"후추",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "egg":[
     {
       "word":"달걀",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "fish":[
     {
       "word":"생선",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "jam":[
     {
       "word":"잼",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "cheese":[
     {
       "word":"치즈",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "sandwitch":[
     {
       "word":"샌드위치",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "corn":[
     {
       "word":"옥수수",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "potato":[
     {
       "word":"감자",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "side dish":[
     {
       "word":"반찬",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "rice cake":[
     {
       "word":"떡",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "cake":[
     {
       "word":"케이크",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "pumpkin":[
     {
       "word":"호박",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "snack":[
     {
       "word":"과자",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "sea food":[
     {
       "word":"해산물",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "stew":[
     {
       "word":"찌개",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "sweet potato":[
     {
       "word":"고구마",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "bell pepper":[
     {
       "word":"피망",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "bean":[
     {
       "word":"콩",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "bean sprout":[
     {
       "word":"콩나물",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "fries":[
     {
       "word":"감자 튀김",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "waffle":[
     {
       "word":"와플",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "syrup":[
     {
       "word":"시럽",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "onion":[
     {
       "word":"양파",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "ham":[
     {
       "word":"햄",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "cabbage":[
     {
       "word":"배추",
-      "description":"Korean / Chinese cabbage", "exmples":[]
+      "description":"Korean / Chinese cabbage", "exmples":[], "level": 10
     },
     {
       "word":"양배추",
-      "description":"Salad like we find in America or Europe", "exmples":[]
+      "description":"Salad like we find in America or Europe", "exmples":[], "level": 10
     }
   ],
   "butter":[
     {
       "word":"버터",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "sauce":[
     {
       "word":"소스",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "soy sauce":[
     {
       "word":"간장",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "broth":[
     {
       "word":"국물",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "soup":[
     {
       "word":"국",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "garlic":[
     {
       "word":"마늘",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "radish":[
     {
       "word":"무",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "black rice":[
     {
       "word":"흑미",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "beef":[
     {
       "word":"쇠고기",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ]
 }

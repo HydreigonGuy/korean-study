@@ -2,175 +2,175 @@
     "illness":[
       {
         "word":"병",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "stomach":[
       {
         "word":"배",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "health":[
       {
         "word":"건강",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "fatigue":[
       {
         "word":"피곤",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "throat":[
       {
         "word":"목",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "patient":[
       {
         "word":"환자",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "cold":[
       {
         "word":"감기",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "condition":[
       {
         "word":"상태",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "pain":[
       {
         "word":"고통 / 아픔",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "diagnosis":[
       {
         "word":"진단",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "heart":[
       {
         "word":"심장",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "virus":[
       {
         "word":"바이러스",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "heart attack":[
       {
         "word":"심장마비",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "paralisis":[
       {
         "word":"마비",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "medicine":[
       {
         "word":"약",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "nosebleed":[
       {
         "word":"코피",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "pharmacy":[
       {
         "word":"약국",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "blood":[
       {
         "word":"피",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "brain":[
       {
         "word":"뇌",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "surgery":[
       {
         "word":"수술",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "operating table":[
       {
         "word":"수술대",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "scalpel":[
       {
         "word":"메스",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "treatment":[
       {
         "word":"치료",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "skin cancer":[
       {
         "word":"피부암",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "cancer":[
       {
         "word":"암",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "death":[
       {
         "word":"사망",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "needle":[
       {
         "word":"바늘",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "comatose":[
       {
         "word":"혼수상태",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ],
     "wound":[
       {
         "word":"상처",
-        "description":"", "exmples":[]
+        "description":"", "exmples":[], "level": 10
       }
     ]
 }

@@ -2,65 +2,65 @@
   "question":[
     {
       "word":"질문",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "what":[
     {
       "word":"뭐",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "why":[
     {
       "word":"왜",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "when":[
     {
       "word":"언제",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "where":[
     {
       "word":"어디",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "who":[
     {
       "word":"누가",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "which":[
     {
       "word":"어느",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     },
     {
       "word":"어떤",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "how":[
     {
       "word":"어떻게",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "muw much":[
     {
       "word":"얼마나",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ],
   "how many":[
     {
       "word":"몇",
-      "description":"", "exmples":[]
+      "description":"", "exmples":[], "level": 10
     }
   ]
 }

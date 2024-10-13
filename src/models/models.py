@@ -7,6 +7,7 @@ class KoreanWord(models.Model):
     word = models.CharField(max_length=20)
     description = models.CharField(max_length=200)
     examples = ArrayField(models.CharField(max_length=200), blank=True)
+    level = models.IntegerField(default=10)
 
     def __str__(self):
         return self.word

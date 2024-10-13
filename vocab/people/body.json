@@ -1,0 +1,248 @@
+{
+    "eye":[
+      {
+        "word":"눈",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "nose":[
+      {
+        "word":"코",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "ear":[
+      {
+        "word":"귀",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "toungue":[
+      {
+        "word":"혀",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "tooth":[
+      {
+        "word":"이",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "head":[
+      {
+        "word":"머리",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "face":[
+      {
+        "word":"얼굴",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "back":[
+      {
+        "word":"등",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "waist":[
+      {
+        "word":"허리",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "chest":[
+      {
+        "word":"가슴",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "skin":[
+      {
+        "word":"피부",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "body":[
+      {
+        "word":"몸",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "shoulder":[
+      {
+        "word":"어깨",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "hair":[
+      {
+        "word":"머리카락",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "hand":[
+      {
+        "word":"손",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "leg":[
+      {
+        "word":"다리",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "foot":[
+      {
+        "word":"발",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "arm":[
+      {
+        "word":"팔",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "bone":[
+      {
+        "word":"뼈",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "knee":[
+      {
+        "word":"무릎",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "toe":[
+      {
+        "word":"발가락",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "finger":[
+      {
+        "word":"손가락",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "heel":[
+      {
+        "word":"발꿈치",
+        "description":"", "exmples":[], "level": 6
+      }
+    ],
+    "elbow":[
+      {
+        "word":"팔꿈치",
+        "description":"", "exmples":[], "level": 6
+      }
+    ],
+    "ankle":[
+      {
+        "word":"발목",
+        "description":"", "exmples":[], "level": 6
+      }
+    ],
+    "wrist":[
+      {
+        "word":"손목",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "smile":[
+      {
+        "word":"미소",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "fingernail":[
+      {
+        "word":"손톱",
+        "description":"", "exmples":[], "level": 5
+      }
+    ],
+    "toenail":[
+      {
+        "word":"발톱",
+        "description":"", "exmples":[], "level": 6
+      }
+    ],
+    "lips":[
+      {
+        "word":"입술",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "palm":[
+      {
+        "word":"손바닥",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "sole":[
+      {
+        "word":"발바닥",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "belly button":[
+      {
+        "word":"배꼽",
+        "description":"", "exmples":[], "level": 6
+      }
+    ],
+    "mustache":[
+      {
+        "word":"콧수염",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "tears":[
+      {
+        "word":"눈물",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "beard":[
+      {
+        "word":"수염",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "saliva":[
+      {
+        "word":"침",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "brain":[
+      {
+        "word":"뇌",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "heart":[
+      {
+        "word":"심장",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "throat":[
+      {
+        "word":"목",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "stomach":[
+      {
+        "word":"배",
+        "description":"", "exmples":[], "level": 1
+      }
+    ]
+}

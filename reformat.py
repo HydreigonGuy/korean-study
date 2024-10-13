@@ -31,7 +31,7 @@ def retrieve_file_contents(path):
                 f = open(os.path.join(path, "new." + f), "w")
                 str = "{\n"
                 for d in data:
-                    str = str + '  "' + d + '":[\n    {\n      "word":"' + data[d] + '",\n      "description":"", "exmples":[], "level": 10, "level": 10\n    }\n  ],\n'
+                    str = str + '  "' + d + '":[\n    {\n      "word":"' + data[d] + '",\n      "description":"", "exmples":[], "level": 10\n    }\n  ],\n'
                 str = str[:-2] + "\n}"
                 # print(str)
                 f.write(str)

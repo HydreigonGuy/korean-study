@@ -5,12 +5,6 @@
         "description":"", "exmples":[], "level": 2
       }
     ],
-    "stomach":[
-      {
-        "word":"배",
-        "description":"", "exmples":[], "level": 1
-      }
-    ],
     "health":[
       {
         "word":"건강",
@@ -21,12 +15,6 @@
       {
         "word":"피곤",
         "description":"", "exmples":[], "level": 1
-      }
-    ],
-    "throat":[
-      {
-        "word":"목",
-        "description":"", "exmples":[], "level": 2
       }
     ],
     "patient":[
@@ -61,12 +49,6 @@
       {
         "word":"진단",
         "description":"", "exmples":[], "level": 8
-      }
-    ],
-    "heart":[
-      {
-        "word":"심장",
-        "description":"", "exmples":[], "level": 4
       }
     ],
     "virus":[
@@ -109,12 +91,6 @@
       {
         "word":"피",
         "description":"", "exmples":[], "level": 1
-      }
-    ],
-    "brain":[
-      {
-        "word":"뇌",
-        "description":"", "exmples":[], "level": 2
       }
     ],
     "surgery":[

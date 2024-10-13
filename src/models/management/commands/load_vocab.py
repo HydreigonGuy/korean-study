@@ -38,7 +38,7 @@ class Command(BaseCommand):
                 word = EnglishWord(word=d)
                 word.save()
                 for k_w in data[d]:
-                    k_word = KoreanWord(word=k_w["word"], description=k_w["description"], examples=k_w["exmples"])
+                    k_word = KoreanWord(word=k_w["word"], description=k_w["description"], examples=k_w["exmples"], level=k_w["level"])
                     k_word.save()
                     word.korean.add(k_word)
                 word.save()

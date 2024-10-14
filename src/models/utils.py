@@ -20,8 +20,29 @@ def is_fail_streaking(history):
             streak = streak + 1
     return (streak >= 5)
 
+def get_max_level(xp):
+    if (xp < 800):
+        return 1
+    if (xp < 2000):
+        return 2
+    if (xp < 3000):
+        return 3
+    if (xp < 4200):
+        return 4
+    if (xp < 5500):
+        return 5
+    if (xp < 7500):
+        return 6
+    if (xp < 10000):
+        return 7
+    if (xp < 14000):
+        return 8
+    if (xp < 20000):
+        return 9
+    return 10
+
 def pick_next_word(profile):
-    items = list(EnglishWord.objects.all())
+    items = list(EnglishWord.objects.filter(korean__level__lt=(get_max_level(profile.xp) + 1)))
     history =  History.objects.filter(Profil=profile).order_by('datetime')
     acc = Accuracy.objects.filter(profile=profile)
 

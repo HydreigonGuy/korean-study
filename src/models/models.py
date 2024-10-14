@@ -22,6 +22,7 @@ class EnglishWord(models.Model):
 
 class Profile(models.Model):
     user = models.OneToOneField(User, null=True, on_delete=models.CASCADE)
+    xp = models.IntegerField(default=0)
 
 class History(models.Model):
     word = models.ForeignKey(EnglishWord, on_delete=models.CASCADE)

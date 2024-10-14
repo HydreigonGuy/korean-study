@@ -39,6 +39,12 @@ def get_word(request):
             correct_guesses = 1
           new_acc = Accuracy(word=previous_word, profile=profile, correct_guesses=correct_guesses, total_guesses=1)
           new_acc.save()
+        if (prev_res == 'true'):
+          profile.xp = profile.xp + 5
+          profile.save()
+        else:
+          profile.xp = profile.xp + 1
+          profile.save()
         
         # Log history
         max_history = 5

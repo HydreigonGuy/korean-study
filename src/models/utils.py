@@ -1,4 +1,4 @@
-
+import math
 import random
 from models.models import EnglishWord, KoreanWord, Profile, Accuracy, History
 
@@ -41,7 +41,7 @@ def pick_next_word(profile):
     # If user is on a fail streak, give him an easyer word
     if (is_success_streaking(history)):
         ord_acc = acc.order_by('score')
-        high_acc = ord_acc[ord_acc / 2:]
+        high_acc = ord_acc[math.ceil(len(ord_acc) / 2):]
         for i in range(len(high_acc)):
             if (high_acc[i].word in items):
                 items.remove(high_acc[i].word)
@@ -50,7 +50,7 @@ def pick_next_word(profile):
     # If user is on a success streak, give him a harder word
     if (is_fail_streaking(history)):
         ord_acc = acc.order_by('score')
-        low_acc = ord_acc[:ord_acc / 2]
+        low_acc = ord_acc[:math.ceil(len(ord_acc) / 2)]
         for i in range(len(low_acc)):
             if (low_acc[i].word in items):
                 items.remove(low_acc[i].word)

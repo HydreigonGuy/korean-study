@@ -30,6 +30,7 @@ def get_word(request):
           acc.total_guesses = acc.total_guesses + 1
           if (prev_res == 'true'):
             acc.correct_guesses = acc.correct_guesses + 1
+          acc.score = acc.total_guesses * acc.correct_guesses
           acc.save()
         else:
           correct_guesses = 0

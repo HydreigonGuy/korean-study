@@ -34,3 +34,4 @@ class Accuracy(models.Model):
     profile = models.ForeignKey(Profile, on_delete=models.CASCADE)
     correct_guesses = models.IntegerField(default=0)
     total_guesses = models.IntegerField(default=0)
+    score = models.IntegerField(default=0)

@@ -77,4 +77,13 @@ def pick_next_word(profile):
                 items.remove(low_acc[i].word)
         return random.choice(items)
     
+    # Randomly remove easy words to increase difficulty
+    if (random.randrange(3) <= 1):
+        ord_acc = acc.order_by('score')
+        high_acc = ord_acc[math.ceil(len(ord_acc) / (random.randrange(5) + 2)):]
+        for i in range(len(high_acc)):
+            if (high_acc[i].word in items):
+                items.remove(high_acc[i].word)
+
+    
     return random.choice(items)

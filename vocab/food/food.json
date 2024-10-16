@@ -230,5 +230,35 @@
       "word":"쇠고기",
       "description":"", "exmples":[], "level": 2
     }
+  ],
+  "candy":[
+    {
+      "word":"사탕",
+      "description":"", "exmples":[], "level": 2
+    }
+  ],
+  "peanut":[
+    {
+      "word":"땅콩",
+      "description":"", "exmples":[], "level": 2
+    }
+  ],
+  "bar snack":[
+    {
+      "word":"안주",
+      "description":"", "exmples":[], "level": 3
+    }
+  ],
+  "fast food":[
+    {
+      "word":"패스트푸드",
+      "description":"", "exmples":[], "level": 3
+    }
+  ],
+  "korean food":[
+    {
+      "word":"한식",
+      "description":"", "exmples":[], "level": 2
+    }
   ]
 }

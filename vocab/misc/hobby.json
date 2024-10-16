@@ -1,0 +1,80 @@
+{
+    "hobby":[
+      {
+        "word":"취미",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "bicicle":[
+      {
+        "word":"자전거",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "painting":[
+      {
+        "word":"그림",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "puzzle":[
+      {
+        "word":"퍼즐",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "jogging":[
+      {
+        "word":"조깅",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "hiking":[
+      {
+        "word":"등산",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "knitting":[
+      {
+        "word":"뜨개질",
+        "description":"", "exmples":[], "level": 5
+      }
+    ],
+    "surfing":[
+      {
+        "word":"서핑",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "roller scate":[
+      {
+        "word":"롤러스케이트",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "fishing":[
+      {
+        "word":"낚시",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "skateboard":[
+      {
+        "word":"스케이트보드",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "magic":[
+      {
+        "word":"마법",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "boxing":[
+      {
+        "word":"귄투",
+        "description":"", "exmples":[], "level": 4
+      }
+    ]
+}

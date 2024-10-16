@@ -328,5 +328,11 @@
       "word":"칠면조",
       "description":"", "exmples":[], "level": 5
     }
+  ],
+  "goat":[
+    {
+      "word":"염소",
+      "description":"", "exmples":[], "level": 4
+    }
   ]
 }

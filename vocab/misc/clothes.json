@@ -70,5 +70,65 @@
       "word":"안경",
       "description":"", "exmples":[], "level": 2
     }
+  ],
+  "mask":[
+    {
+      "word":"가면",
+      "description":"", "exmples":[], "level": 6
+    }
+  ],
+  "wig":[
+    {
+      "word":"가발",
+      "description":"", "exmples":[], "level": 7
+    }
+  ],
+  "ring":[
+    {
+      "word":"반지",
+      "description":"", "exmples":[], "level": 6
+    }
+  ],
+  "glove":[
+    {
+      "word":"장갑",
+      "description":"", "exmples":[], "level": 5
+    }
+  ],
+  "sunglasses":[
+    {
+      "word":"선글라스",
+      "description":"", "exmples":[], "level": 4
+    }
+  ],
+  "contact lens":[
+    {
+      "word":"렌즈",
+      "description":"", "exmples":[], "level": 4
+    }
+  ],
+  "tie":[
+    {
+      "word":"넥타이",
+      "description":"", "exmples":[], "level": 5
+    }
+  ],
+  "belt":[
+    {
+      "word":"허리띠 / 벨트",
+      "description":"", "exmples":[], "level": 4
+    }
+  ],
+  "bracelet":[
+    {
+      "word":"팔찌",
+      "description":"", "exmples":[], "level": 7
+    }
+  ],
+  "earrings":[
+    {
+      "word":"귀걸이",
+      "description":"", "exmples":[], "level": 7
+    }
   ]
 }

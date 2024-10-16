@@ -192,5 +192,17 @@
       "word":"변호사",
       "description":"", "exmples":[], "level": 5
     }
+  ],
+  "waiter":[
+    {
+      "word":"종업원",
+      "description":"", "exmples":[], "level": 5
+    }
+  ],
+  "retirement":[
+    {
+      "word":"퇴직",
+      "description":"", "exmples":[], "level": 5
+    }
   ]
 }

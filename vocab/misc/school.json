@@ -236,5 +236,17 @@
       "word":"졸업식",
       "description":"", "exmples":[], "level": 9
     }
+  ],
+  "highlighter":[
+    {
+      "word":"형광펜",
+      "description":"", "exmples":[], "level": 6
+    }
+  ],
+  "education":[
+    {
+      "word":"교육",
+      "description":"", "exmples":[], "level": 5
+    }
   ]
 }

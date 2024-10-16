@@ -184,5 +184,35 @@
       "word":"하루",
       "description":"", "exmples":[], "level": 4
     }
+  ],
+  "day after tomorow":[
+    {
+      "word":"모레",
+      "description":"", "exmples":[], "level": 6
+    }
+  ],
+  "a long time":[
+    {
+      "word":"오랫동안",
+      "description":"", "exmples":[], "level": 4
+    }
+  ],
+  "in a bit":[
+    {
+      "word":"이따가",
+      "description":"", "exmples":[], "level": 3
+    }
+  ],
+  "later":[
+    {
+      "word":"나중",
+      "description":"", "exmples":[], "level": 3
+    }
+  ],
+  "soon":[
+    {
+      "word":"곧",
+      "description":"", "exmples":[], "level": 1
+    }
   ]
 }

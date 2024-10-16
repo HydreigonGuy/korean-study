@@ -69,6 +69,10 @@
     {
       "word":"회사",
       "description":"", "exmples":[], "level": 1
+    },
+    {
+      "word":"직장",
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "theater":[
@@ -105,6 +109,60 @@
     {
       "word":"복도",
       "description":"", "exmples":[], "level": 3
+    }
+  ],
+  "changing room":[
+    {
+      "word":"탈의실",
+      "description":"", "exmples":[], "level": 3
+    }
+  ],
+  "department store":[
+    {
+      "word":"백화좀",
+      "description":"", "exmples":[], "level": 3
+    }
+  ],
+  "theather":[
+    {
+      "word":"극장",
+      "description":"", "exmples":[], "level": 4
+    }
+  ],
+  "bar":[
+    {
+      "word":"술집",
+      "description":"", "exmples":[], "level": 1
+    }
+  ],
+  "bakery":[
+    {
+      "word":"빵집",
+      "description":"", "exmples":[], "level": 1
+    }
+  ],
+  "zoo":[
+    {
+      "word":"동물원",
+      "description":"", "exmples":[], "level": 2
+    }
+  ],
+  "convinience store":[
+    {
+      "word":"편의점",
+      "description":"", "exmples":[], "level": 1
+    }
+  ],
+  "playground":[
+    {
+      "word":"놀이터",
+      "description":"", "exmples":[], "level": 2
+    }
+  ],
+  "steam room":[
+    {
+      "word":"찜질방",
+      "description":"", "exmples":[], "level": 4
     }
   ]
 }

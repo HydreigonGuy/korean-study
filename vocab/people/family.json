@@ -9,6 +9,10 @@
     {
       "word":"어머니",
       "description":"", "exmples":[], "level": 1
+    },
+    {
+      "word":"엄마",
+      "description":"", "exmples":[], "level": 1
     }
   ],
   "grandmother":[
@@ -20,6 +24,10 @@
   "father":[
     {
       "word":"아버지",
+      "description":"", "exmples":[], "level": 1
+    },
+    {
+      "word":"아빠",
       "description":"", "exmples":[], "level": 1
     }
   ],
@@ -65,16 +73,50 @@
       "description":"", "exmples":[], "level": 6
     }
   ],
-  "sisters":[
+  "sister":[
     {
       "word":"자매",
+      "description":"sisters", "exmples":[], "level": 6
+    },
+    {
+      "word":"언니",
+      "description":"", "exmples":[], "level": 2
+    },
+    {
+      "word":"누나",
+      "description":"", "exmples":[], "level": 2
+    }
+  ],
+  "brother":[
+    {
+      "word":"형제",
+      "description":"brothers", "exmples":[], "level": 6
+    },
+    {
+      "word":"형",
+      "description":"", "exmples":[], "level": 2
+    },
+    {
+      "word":"오빠",
+      "description":"", "exmples":[], "level": 2
+    }
+  ],
+  "granddaughter":[
+    {
+      "word":"손녀",
       "description":"", "exmples":[], "level": 6
     }
   ],
-  "brothers":[
+  "grandson":[
     {
-      "word":"형제",
+      "word":"손자",
       "description":"", "exmples":[], "level": 6
+    }
+  ],
+  "younger sibling":[
+    {
+      "word":"동생",
+      "description":"", "exmples":[], "level": 2
     }
   ]
 }

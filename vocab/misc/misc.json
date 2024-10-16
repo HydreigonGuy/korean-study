@@ -39,12 +39,540 @@
       {
         "word":"시계",
         "description":"", "exmples":[], "level": 2
+      },
+      {
+        "word":"손몬시계",
+        "description":"wrist watch", "exmples":[], "level": 6
       }
     ],
     "thank you note":[
       {
         "word":"감사장",
         "description":"", "exmples":[], "level": 7
+      }
+    ],
+    "genious":[
+      {
+        "word":"천재",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "number":[
+      {
+        "word":"번호",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "tissue / toilet paper":[
+      {
+        "word":"휴지",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "photo":[
+      {
+        "word":"사진",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "monster":[
+      {
+        "word":"괴물",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "makeup":[
+      {
+        "word":"화장품",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "ladder":[
+      {
+        "word":"사다리",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "travel":[
+      {
+        "word":"여행",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "window":[
+      {
+        "word":"창문",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "yeah":[
+      {
+        "word":"응",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "sorry":[
+      {
+        "word":"미안",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "alcohol":[
+      {
+        "word":"술",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "menu":[
+      {
+        "word":"메뉴",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "noise":[
+      {
+        "word":"소음",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "shower":[
+      {
+        "word":"샤워",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "plan":[
+      {
+        "word":"계획",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "elevator":[
+      {
+        "word":"엘리베이터",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "again":[
+      {
+        "word":"다시",
+        "description":"", "exmples":[], "level": 5
+      }
+    ],
+    "speaker":[
+      {
+        "word":"스피커",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "rest":[
+      {
+        "word":"휴식",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "arrival":[
+      {
+        "word":"도착",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "all":[
+      {
+        "word":"다",
+        "description":"", "exmples":[], "level": 1
+      },
+      {
+        "word":"모든",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "next":[
+      {
+        "word":"다음",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "schedule":[
+      {
+        "word":"예정",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "I / me":[
+      {
+        "word":"나",
+        "description":"informal", "exmples":[], "level": 1
+      },
+      {
+        "word":"저",
+        "description":"formal", "exmples":[], "level": 1
+      }
+    ],
+    "you":[
+      {
+        "word":"너",
+        "description":"informal", "exmples":[], "level": 1
+      }
+    ],
+    "my":[
+      {
+        "word":"내",
+        "description":"informal", "exmples":[], "level": 1
+      },
+      {
+        "word":"제",
+        "description":"formal", "exmples":[], "level": 1
+      }
+    ],
+    "your":[
+      {
+        "word":"네",
+        "description":"informal", "exmples":[], "level": 1
+      }
+    ],
+    "customer":[
+      {
+        "word":"고객",
+        "description":"", "exmples":[], "level": 5
+      }
+    ],
+    "program":[
+      {
+        "word":"프로그램",
+        "description":"", "exmples":[], "level": 5
+      }
+    ],
+    "government":[
+      {
+        "word":"정부",
+        "description":"", "exmples":[], "level": 6
+      }
+    ],
+    "magazine":[
+      {
+        "word":"잡지",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "culture":[
+      {
+        "word":"문화",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "video":[
+      {
+        "word":"비디오",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "maybe":[
+      {
+        "word":"아마",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "riddle":[
+      {
+        "word":"수수께끼",
+        "description":"", "exmples":[], "level": 6
+      }
+    ],
+    "fool":[
+      {
+        "word":"바보",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "troublemaker":[
+      {
+        "word":"말썽쟁이",
+        "description":"", "exmples":[], "level": 7
+      }
+    ],
+    "broomstick":[
+      {
+        "word":"빗자루",
+        "description":"", "exmples":[], "level": 6
+      }
+    ],
+    "manual":[
+      {
+        "word":"설명서",
+        "description":"", "exmples":[], "level": 6
+      }
+    ],
+    "motorcicle":[
+      {
+        "word":"오토바이",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "joke":[
+      {
+        "word":"농담",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "awesome":[
+      {
+        "word":"대박",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "memory":[
+      {
+        "word":"기억",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "crosswalk":[
+      {
+        "word":"횡단보도",
+        "description":"", "exmples":[], "level": 6
+      }
+    ],
+    "underground":[
+      {
+        "word":"지하",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "please":[
+      {
+        "word":"제발",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "cheers":[
+      {
+        "word":"건배",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "taxi":[
+      {
+        "word":"택시",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "pocket money":[
+      {
+        "word":"용돈",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "human":[
+      {
+        "word":"인간",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "problem":[
+      {
+        "word":"문제",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "door":[
+      {
+        "word":"문",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "report":[
+      {
+        "word":"신고",
+        "description":"", "exmples":[], "level": 5
+      }
+    ],
+    "thief":[
+      {
+        "word":"도둑",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "fire":[
+      {
+        "word":"화재",
+        "description":"", "exmples":[], "level": 2
+      },
+      {
+        "word":"불",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "emergency":[
+      {
+        "word":"비상",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "smoke":[
+      {
+        "word":"연기",
+        "description":"", "exmples":[], "level": 5
+      }
+    ],
+    "contact information":[
+      {
+        "word":"연락처",
+        "description":"", "exmples":[], "level": 6
+      }
+    ],
+    "detector":[
+      {
+        "word":"탐지기",
+        "description":"", "exmples":[], "level": 5
+      }
+    ],
+    "help":[
+      {
+        "word":"도움",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "once":[
+      {
+        "word":"한번",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "bottle":[
+      {
+        "word":"병",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "recipe":[
+      {
+        "word":"요리법",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "code":[
+      {
+        "word":"코드",
+        "description":"", "exmples":[], "level": 1
+      }
+    ],
+    "a lock":[
+      {
+        "word":"자물쇠",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "dryer":[
+      {
+        "word":"건조기",
+        "description":"", "exmples":[], "level": 6
+      }
+    ],
+    "laundry":[
+      {
+        "word":"빨래",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "dishes":[
+      {
+        "word":"그릇",
+        "description":"", "exmples":[], "level": 4
+      },
+      {
+        "word":"식기",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "callendar":[
+      {
+        "word":"달력",
+        "description":"", "exmples":[], "level": 5
+      }
+    ],
+    "wage":[
+      {
+        "word":"엄금",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "training":[
+      {
+        "word":"연수",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "monthly salary":[
+      {
+        "word":"월급",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "career":[
+      {
+        "word":"경력",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "work":[
+      {
+        "word":"근무",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "uniform":[
+      {
+        "word":"제복",
+        "description":"", "exmples":[], "level": 5
+      }
+    ],
+    "job":[
+      {
+        "word":"직업",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "answer":[
+      {
+        "word":"대답",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "toothbrush":[
+      {
+        "word":"칫솔",
+        "description":"", "exmples":[], "level": 4
+      }
+    ],
+    "soap":[
+      {
+        "word":"비누",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "shampoo":[
+      {
+        "word":"샴푸",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "toothpaste":[
+      {
+        "word":"치약",
+        "description":"", "exmples":[], "level": 3
+      }
+    ],
+    "comb":[
+      {
+        "word":"빗",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "driver's license":[
+      {
+        "word":"운전면허증",
+        "description":"", "exmples":[], "level": 6
       }
     ]
 }

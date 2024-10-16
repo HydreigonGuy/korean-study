@@ -181,6 +181,10 @@
     {
       "word":"입다",
       "description":"", "exmples":[], "level": 2
+    },
+    {
+      "word":"쓰다",
+      "description":"to wear glasses", "exmples":[], "level": 2
     }
   ],
   "to wear (shoes)":[
@@ -216,6 +220,10 @@
   "to use":[
     {
       "word":"사용하다",
+      "description":"", "exmples":[], "level": 3
+    },
+    {
+      "word":"이용하다",
       "description":"", "exmples":[], "level": 3
     }
   ],
@@ -273,7 +281,7 @@
       "description":"", "exmples":[], "level": 2
     }
   ],
-  "to find":[
+  "to find / search":[
     {
       "word":"찾다",
       "description":"", "exmples":[], "level": 1
@@ -316,6 +324,10 @@
   "to draw":[
     {
       "word":"긋다",
+      "description":"", "exmples":[], "level": 4
+    },
+    {
+      "word":"그리다",
       "description":"", "exmples":[], "level": 4
     }
   ],
@@ -615,6 +627,10 @@
     {
       "word":"사망하다",
       "description":"", "exmples":[], "level": 5
+    },
+    {
+      "word":"죽다",
+      "description":"", "exmples":[], "level": 3
     }
   ],
   "to be right":[
@@ -940,6 +956,172 @@
   "to save":[
     {
       "word":"구조하다",
+      "description":"", "exmples":[], "level": 5
+    }
+  ],
+  "to hate / dislike":[
+    {
+      "word":"싫어하다",
+      "description":"", "exmples":[], "level": 1
+    },
+    {
+      "word":"싫다",
+      "description":"", "exmples":[], "level": 1
+    }
+  ],
+  "to rest":[
+    {
+      "word":"쉬다",
+      "description":"", "exmples":[], "level": 1
+    }
+  ],
+  "to arrive":[
+    {
+      "word":"도착하다",
+      "description":"", "exmples":[], "level": 2
+    }
+  ],
+  "to order":[
+    {
+      "word":"시키다",
+      "description":"", "exmples":[], "level": 2
+    }
+  ],
+  "to iron (clothes)":[
+    {
+      "word":"다리다",
+      "description":"", "exmples":[], "level": 6
+    }
+  ],
+  "to change clothes":[
+    {
+      "word":"갈아입다",
+      "description":"", "exmples":[], "level": 4
+    }
+  ],
+  "to look after":[
+    {
+      "word":"보살피다",
+      "description":"", "exmples":[], "level": 6
+    }
+  ],
+  "to fight":[
+    {
+      "word":"싸우다",
+      "description":"", "exmples":[], "level": 2
+    }
+  ],
+  "to borrow":[
+    {
+      "word":"빌리다",
+      "description":"", "exmples":[], "level": 4
+    }
+  ],
+  "to forget":[
+    {
+      "word":"잊다",
+      "description":"", "exmples":[], "level": 1
+    }
+  ],
+  "to lose (something)":[
+    {
+      "word":"잃다",
+      "description":"", "exmples":[], "level": 1
+    }
+  ],
+  "to come in":[
+    {
+      "word":"들어오다",
+      "description":"", "exmples":[], "level": 2
+    }
+  ],
+  "to pick up":[
+    {
+      "word":"줍다",
+      "description":"", "exmples":[], "level": 2
+    }
+  ],
+  "to cook":[
+    {
+      "word":"요리하다",
+      "description":"", "exmples":[], "level": 2
+    }
+  ],
+  "to turn":[
+    {
+      "word":"돌다",
+      "description":"", "exmples":[], "level": 4
+    }
+  ],
+  "to enter":[
+    {
+      "word":"들다",
+      "description":"", "exmples":[], "level": 1
+    }
+  ],
+  "to throw away":[
+    {
+      "word":"버리다",
+      "description":"", "exmples":[], "level": 3
+    }
+  ],
+  "to kick":[
+    {
+      "word":"차다",
+      "description":"", "exmples":[], "level": 1
+    }
+  ],
+  "to rake":[
+    {
+      "word":"긁다",
+      "description":"", "exmples":[], "level": 4
+    }
+  ],
+  "to flow":[
+    {
+      "word":"흐르다",
+      "description":"", "exmples":[], "level": 5
+    }
+  ],
+  "to start":[
+    {
+      "word":"시작하다",
+      "description":"", "exmples":[], "level": 1
+    }
+  ],
+  "to concentrate":[
+    {
+      "word":"집중하다",
+      "description":"", "exmples":[], "level": 4
+    }
+  ],
+  "to fall (off)":[
+    {
+      "word":"떨어지다",
+      "description":"", "exmples":[], "level": 4
+    }
+  ],
+  "to solve":[
+    {
+      "word":"풀다",
+      "description":"", "exmples":[], "level": 4
+    }
+  ],
+  "to sign":[
+    {
+      "word":"사인하다",
+      "description":"", "exmples":[], "level": 3
+    }
+  ],
+  "to manage":[
+    {
+      "word":"부리다",
+      "description":"", "exmples":[], "level": 5
+    }
+  ],
+  "to spit":[
+    {
+      "word":"뱉다",
       "description":"", "exmples":[], "level": 5
     }
   ]

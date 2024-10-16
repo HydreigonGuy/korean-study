@@ -16,5 +16,17 @@
         "word":"하지만",
         "description":"", "exmples":[], "level": 2
       }
+    ],
+    "then":[
+      {
+        "word":"그럼",
+        "description":"", "exmples":[], "level": 2
+      }
+    ],
+    "just because":[
+      {
+        "word":"그냥",
+        "description":"", "exmples":[], "level": 2
+      }
     ]
 }

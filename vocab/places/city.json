@@ -64,5 +64,11 @@
         "word":"터널",
         "description":"", "exmples":[], "level": 3
       }
+    ],
+    "hometown":[
+      {
+        "word":"고향",
+        "description":"", "exmples":[], "level": 2
+      }
     ]
 }

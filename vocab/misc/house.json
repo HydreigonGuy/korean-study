@@ -246,5 +246,11 @@
       "word":"온돌",
       "description":"", "exmples":[], "level": 7
     }
+  ],
+  "balcony":[
+    {
+      "word":"발코니",
+      "description":"", "exmples":[], "level": 3
+    }
   ]
 }

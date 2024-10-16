@@ -27,6 +27,10 @@
     {
       "word":"덥다",
       "description":"", "exmples":[], "level": 1
+    },
+    {
+      "word":"따뜻하다",
+      "description":"to be warm", "exmples":[], "level": 3
     }
   ],
   "to be heavy":[
@@ -236,6 +240,100 @@
   "to be strong":[
     {
       "word":"강하다",
+      "description":"", "exmples":[], "level": 1
+    }
+  ],
+  "to be clean":[
+    {
+      "word":"깨끗하다",
+      "description":"", "exmples":[], "level": 5
+    }
+  ],
+  "to be scared of":[
+    {
+      "word":"무서워하다",
+      "description":"", "exmples":[], "level": 3
+    }
+  ],
+  "to be scary":[
+    {
+      "word":"무섭다",
+      "description":"", "exmples":[], "level": 3
+    }
+  ],
+  "to be impossible":[
+    {
+      "word":"불가능하다",
+      "description":"", "exmples":[], "level": 5
+    }
+  ],
+  "to be unconfortable":[
+    {
+      "word":"불편하다",
+      "description":"", "exmples":[], "level": 5
+    }
+  ],
+  "to be tough":[
+    {
+      "word":"힘들다",
+      "description":"", "exmples":[], "level": 1
+    }
+  ],
+  "to be important":[
+    {
+      "word":"중요하다",
+      "description":"", "exmples":[], "level": 2
+    }
+  ],
+  "to be convinient":[
+    {
+      "word":"편리하다",
+      "description":"", "exmples":[], "level": 3
+    }
+  ],
+  "to be confortable":[
+    {
+      "word":"편하다",
+      "description":"", "exmples":[], "level": 3
+    }
+  ],
+  "to be loud / noisy":[
+    {
+      "word":"시끄럽다",
+      "description":"", "exmples":[], "level": 4
+    }
+  ],
+  "to be late":[
+    {
+      "word":"늦다",
+      "description":"", "exmples":[], "level": 1
+    }
+  ],
+  "to be joyfull / pleasent":[
+    {
+      "word":"즐겁다",
+      "description":"", "exmples":[], "level": 4
+    }
+  ],
+  "to be quiet":[
+    {
+      "word":"조용하다",
+      "description":"", "exmples":[], "level": 5
+    }
+  ],
+  "to be old":[
+    {
+      "word":"낡다",
+      "description":"", "exmples":[], "level": 2
+    },
+    {
+      "word":"오래되다",
+      "description":"", "exmples":[], "level": 2
+    }
+  ],
+  "to be sorry":[
+    {
+      "word":"미안하다",
       "description":"", "exmples":[], "level": 1
     }
   ]

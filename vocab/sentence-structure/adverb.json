@@ -244,5 +244,35 @@
       "word":"마지막",
       "description":"", "exmples":[], "level": 3
     }
+  ],
+  "really":[
+    {
+      "word":"진짜",
+      "description":"", "exmples":[], "level": 1
+    }
+  ],
+  "suddenly":[
+    {
+      "word":"갑자기",
+      "description":"", "exmples":[], "level": 2
+    }
+  ],
+  "brave":[
+    {
+      "word":"용감한",
+      "description":"", "exmples":[], "level": 3
+    }
+  ],
+  "collapsed":[
+    {
+      "word":"무너진",
+      "description":"", "exmples":[], "level": 5
+    }
+  ],
+  "about":[
+    {
+      "word":"대한 / 대해",
+      "description":"", "exmples":[], "level": 2
+    }
   ]
 }
